@@ -1,0 +1,1067 @@
+{
+ "app": "vita-palestra",
+ "v": 1,
+ "publishedAt": "2026-10-12T17:28:38.733Z",
+ "notes": "Versione 1.2: scheda intelligente con recupero dei muscoli, riscaldamento automatico, tapis roulant finale e stretching, sezione Mobilità, oltre 120 esercizi con animazioni 3D verificate, schede impegnative da 1h30–1h45.",
+ "web": {
+  "version": 1791826071387,
+  "label": "1.2.0",
+  "path": "web/1791826071387/",
+  "files": [
+   {
+    "path": "assets/actions-DOHQfqD9.js",
+    "size": 4960,
+    "sha256": "221cec8a4185374d9cd8208fe905fd575e29d78adb543e90fa3e2586d6835ead"
+   },
+   {
+    "path": "assets/android-D-vCJN3i.js",
+    "size": 3887,
+    "sha256": "4a715e79e28e61ac86543d222808140a69abc0c960130342a2e73a1719d03bb8"
+   },
+   {
+    "path": "assets/BodyPage-P8zseoRZ.js",
+    "size": 98459,
+    "sha256": "fc09f8276c64ef5437f42dcc4cf0e2f999ab91cc173bf8a8ec7b6c359bffc502"
+   },
+   {
+    "path": "assets/bootState-B8Yos9Sm.js",
+    "size": 2009,
+    "sha256": "6193375ba41d4fc95e8c68062f45a366ec6f85fe5c2c9832ba02a9167a5b9976"
+   },
+   {
+    "path": "assets/CalendarPage-BNLR4foa.js",
+    "size": 70066,
+    "sha256": "f17140eef06051647b88c18b144a6245154f4ee89c884fafdc78d7cd6f1fb3e9"
+   },
+   {
+    "path": "assets/channel-CE1zf8co.js",
+    "size": 5039,
+    "sha256": "ac7e151b3e35f8a5b5c7cca133f3b3740432871d0fd6d45b50f93cb490fefe88"
+   },
+   {
+    "path": "assets/DashboardPage-DhiXF4vl.js",
+    "size": 76760,
+    "sha256": "23cbf19a9f0ce810459b7c6a12a4c19959dc017cf7627491cf33122bb21c7634"
+   },
+   {
+    "path": "assets/dates-Bm9ADmA8.js",
+    "size": 62664,
+    "sha256": "a39cb0b2a97edb37e9f631fa471f1c09ab8dd16ecfc18d9f3dcc7fca0e7a4b78"
+   },
+   {
+    "path": "assets/dist-BwbVg1QY.js",
+    "size": 8057,
+    "sha256": "74eedf5ce2b7a268b6a5c132c33b7a73aea016f9f9fff4a86eaa133aa3cd22b1"
+   },
+   {
+    "path": "assets/EChartCore--k4RoZU9.js",
+    "size": 658004,
+    "sha256": "361bbfef5c9c932318cf749f24d5a64745d11c68c01607dbcc4139c94629982e"
+   },
+   {
+    "path": "assets/esm-3ggQhhwi.js",
+    "size": 430,
+    "sha256": "97134b19b2d6fd0a20cf5bbc17b4a78d6a95aaef7a835fe53a49773b73ff5c38"
+   },
+   {
+    "path": "assets/esm-BCE8UKYm.js",
+    "size": 627,
+    "sha256": "983734826dbd4c21dd778dc13fb24caba594896c5f8a88e64a1d099bb09019ed"
+   },
+   {
+    "path": "assets/esm-C00HjiV5.js",
+    "size": 246,
+    "sha256": "472e3ee92710b3a1807006de9d475d40f924c7dd1fb4f37b5dc17c313e602224"
+   },
+   {
+    "path": "assets/esm-DIahYxt5.js",
+    "size": 1440,
+    "sha256": "42162b758d5ed01cb872d69a1b155f208919a032b5458777b5d2f53a83cc9c37"
+   },
+   {
+    "path": "assets/esm-POXmdYO7.js",
+    "size": 663,
+    "sha256": "493bce8a0f98f18505ed5be00a5300f79ae742cd58128a55b4ad29a041e07a70"
+   },
+   {
+    "path": "assets/esm-tR1RPFfx.js",
+    "size": 412,
+    "sha256": "4209920605da74c92f8ab4219e7969393ca0b319dd1517bcc2db9e2fc2f592ca"
+   },
+   {
+    "path": "assets/ExerciseDemo-QC4DDRov.js",
+    "size": 35320,
+    "sha256": "1c77ed55ad86373941d8425f21d35512d6ba93a87f10b9bbf32877b455f1cfbf"
+   },
+   {
+    "path": "assets/ExerciseDetailPage-BDLVqyja.js",
+    "size": 38627,
+    "sha256": "bfcc563e2de45a9869ab12d9b41f2962262f1f756516d4b8e7fc56e708cbaf7b"
+   },
+   {
+    "path": "assets/ExerciseLibraryPage-DLSrumD-.js",
+    "size": 12596,
+    "sha256": "df8711073e4d5f31e071fcaec556809c83bb37f1b7fd246bf1177e27e986c316"
+   },
+   {
+    "path": "assets/exerciseResolver-D5tMlM54.js",
+    "size": 265,
+    "sha256": "07d760915f80db36769f1535552216e38e47b08c7ed69d6fad30c5db8a024bc7"
+   },
+   {
+    "path": "assets/exercises-DWm1c0pl.js",
+    "size": 1523204,
+    "sha256": "16919846c95d03731f40ba2cd91bc761564d326e193834bb21479cae1ca639ac"
+   },
+   {
+    "path": "assets/ExerciseViewer-D4qdjC2o.js",
+    "size": 216524,
+    "sha256": "ebf52f8592b1d42cdada9793c6ce9b5e66dbcbd48f5442c8e95dce025ed456e9"
+   },
+   {
+    "path": "assets/format-Bgp-A-ch.js",
+    "size": 2067,
+    "sha256": "34cfd9ca334067cd216c76e4c460d72213a815574336f8649d5f5516f2c01a4a"
+   },
+   {
+    "path": "assets/icons-DTCdNgcx.js",
+    "size": 62010,
+    "sha256": "6dcbbef289abe3bbe61ca0d4ed6f4f853ea69f8206c48844e95a5af2a090de8b"
+   },
+   {
+    "path": "assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2",
+    "size": 25960,
+    "sha256": "ca157063339ac4ad418f214f3abfed119b0798ab4d377386ce5c9e5a7a435ebd"
+   },
+   {
+    "path": "assets/inter-cyrillic-wght-normal-DqGufNeO.woff2",
+    "size": 18748,
+    "sha256": "71d5ee93cc1e9f1d520a3a8b66456de18c7879d8df09d57fcd2eaff75fef0075"
+   },
+   {
+    "path": "assets/inter-greek-ext-wght-normal-DlzME5K_.woff2",
+    "size": 11232,
+    "sha256": "6e9e020a25f9b56d418f2c085b1d3c09725a4da23fe693a5b463064606732190"
+   },
+   {
+    "path": "assets/inter-greek-wght-normal-CkhJZR-_.woff2",
+    "size": 18996,
+    "sha256": "1be3448e292fbf05ffe176fe1e43f135013d50b1e7d324ad1a558f623d3bb6f6"
+   },
+   {
+    "path": "assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2",
+    "size": 85068,
+    "sha256": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956"
+   },
+   {
+    "path": "assets/inter-latin-wght-normal-Dx4kXJAl.woff2",
+    "size": 48256,
+    "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62"
+   },
+   {
+    "path": "assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2",
+    "size": 10252,
+    "sha256": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2"
+   },
+   {
+    "path": "assets/labels-WLUwmjZr.js",
+    "size": 1948,
+    "sha256": "438c74d3df503fb27ffdf420e16b43b44a1929da85164eef576f10e75f76040f"
+   },
+   {
+    "path": "assets/main-DpYnC1Wj.js",
+    "size": 126574,
+    "sha256": "387ca3c69013391b0b143fbc7c23bb0ada6de58d3d1d1b3c372cc52dc2554886"
+   },
+   {
+    "path": "assets/mobility-DCfuauGn.js",
+    "size": 26058,
+    "sha256": "7358a817be3c1fd2036cdd5ca9929e7508b9ffb18fa45217483adadc2fe474f8"
+   },
+   {
+    "path": "assets/MobilityPage-BBkUcU2v.js",
+    "size": 44136,
+    "sha256": "56ca1d1eeac9813a26a7cf060e56c2ede3d3c02c5105931f37a6a3c0e5edc764"
+   },
+   {
+    "path": "assets/MuscleMap-DO8AWEcb.js",
+    "size": 13109,
+    "sha256": "30336e9847c378eadc4442da10da3aea9b84bceb2c3190c28f78a332ed4c321f"
+   },
+   {
+    "path": "assets/muscleMapPaths-DhTjzfNI.js",
+    "size": 9485,
+    "sha256": "7e09a3769afe95d25e64ea8eee557e299df9debc5292960fb67fb6b0cd46ac70"
+   },
+   {
+    "path": "assets/muscles-DZNzSGIX.js",
+    "size": 1565,
+    "sha256": "e791fb5c0e0eabc322c9c04849d21abdb1068687ad3e16cf0d509e7574d77986"
+   },
+   {
+    "path": "assets/nutrition-DltYrh3m.js",
+    "size": 5643,
+    "sha256": "3a16fec10483d1452f52f5d686ae11124f88e1172296738e573e7f3c60b0bf6e"
+   },
+   {
+    "path": "assets/NutritionPage-BOfnIc9J.js",
+    "size": 147483,
+    "sha256": "862254c5f03774a78a1a40de584e9c940625c628d897cba59d7402a8d844b8c5"
+   },
+   {
+    "path": "assets/OnboardingPage-D17Zhy09.js",
+    "size": 50908,
+    "sha256": "b3ea1b12c2e7b170dfee66a809cd3ffbd8f8d47a21a91225aba0c0ca7aa2fa9f"
+   },
+   {
+    "path": "assets/PhotosPage-CX9jzLWI.js",
+    "size": 66471,
+    "sha256": "22bd101e4997f8452910cf53551842ead9d88dff5e4e5b3ca2cf943ed5584bd6"
+   },
+   {
+    "path": "assets/planActions-cMOD9k5X.js",
+    "size": 1329,
+    "sha256": "8d563ef20b6a3b0eb7674bf0ee2568c7cb75ea946fcdf430934ba1fc8e68e8da"
+   },
+   {
+    "path": "assets/PlanEditorPage-BiwxCbSS.js",
+    "size": 43785,
+    "sha256": "31533dfce1756721d05f081935a7e5ec1a1c0d06942309abd6628285d613d72e"
+   },
+   {
+    "path": "assets/PlanEditorPage-Sj_IVxaV.css",
+    "size": 1612,
+    "sha256": "4b554f5e40c1283d2a99c9a7d051d8f87b411171e903c18e2fc53e13a2bfb4f8"
+   },
+   {
+    "path": "assets/PlansPage-BL59qxLZ.js",
+    "size": 15327,
+    "sha256": "3fa116f8b02075ff0554fe247c7f0d98929a3c6c518a4084ba0faf38c7433f28"
+   },
+   {
+    "path": "assets/preload-helper-CpbUKlPz.css",
+    "size": 138669,
+    "sha256": "3f85fcdb8dc6bef766c75a543160369b180575d2d47783fe021e724cfd1ee939"
+   },
+   {
+    "path": "assets/preload-helper-CvHuHisQ.js",
+    "size": 2916,
+    "sha256": "b8b07f0b616c63a358b26a1b7f181490e8ea4d49b11171c87a98592f1ebc83f6"
+   },
+   {
+    "path": "assets/ProgressPage-CrdtvOyH.js",
+    "size": 79454,
+    "sha256": "c26ac017d5c2865bd73b29b695dfe1233fdc6f8a5b202b94be9f2c8e8b2f73f6"
+   },
+   {
+    "path": "assets/props-VFjUeQc-.js",
+    "size": 39373,
+    "sha256": "01e0709676bc2bdb3ddf87169b42defba90f2ee6ec12331bc9ea3eb184735966"
+   },
+   {
+    "path": "assets/react-CdRJjOrk.js",
+    "size": 424,
+    "sha256": "b4ed147eee3a079b9c6cccaf03e795cf4598399384e145c2aa228578596805d6"
+   },
+   {
+    "path": "assets/ReadinessSheet-BBGurRq1.js",
+    "size": 21497,
+    "sha256": "295743f2a7172b7f03a373fffa086e85f40e83f51031659bb02f10b90fdf75dc"
+   },
+   {
+    "path": "assets/recovery-CBng22Jt.js",
+    "size": 30752,
+    "sha256": "77d12282db868481e011e5be3e70e53c9e7c3077df37c048fd805ed4eccc8f13"
+   },
+   {
+    "path": "assets/recoveryApply-ejtjjtoy.js",
+    "size": 1464,
+    "sha256": "cca463b8ee3764e036555f5121c6a1c79cdfcc1bd9cb9a552b48e3b0e06b9e04"
+   },
+   {
+    "path": "assets/RecoveryScreen-Dj7UF9Ri.js",
+    "size": 6587,
+    "sha256": "28df248a4fb5c329b0ee84194a8d9079e2ed1b7cf44ced21f996f56ef75ca3f2"
+   },
+   {
+    "path": "assets/render-BUSRwc0b.js",
+    "size": 25529,
+    "sha256": "ee93b9f04b48d25471aa0750905dc4b65f5c30cddec39f2181a87a852cf0514d"
+   },
+   {
+    "path": "assets/repo-B34hMe6-.js",
+    "size": 99621,
+    "sha256": "6a01e0c116d6ba20230ea7fe796f9346df079a2f482fb8e8e90ff1d4ec24090b"
+   },
+   {
+    "path": "assets/RestAdviceChip-5MB5o812.js",
+    "size": 2066,
+    "sha256": "ad6afebe6421bc0d06ac7a08745b515b34a4f5d09c7eb25115338b1ef91c846b"
+   },
+   {
+    "path": "assets/search-UxZjwO3r.js",
+    "size": 2632,
+    "sha256": "6390b94139e20ac12e521c346cd0bb79e276818cd20cdbcc19b2eaa045b7338b"
+   },
+   {
+    "path": "assets/sessionActions-C8HG4Ni_.js",
+    "size": 46991,
+    "sha256": "dc13bf5b7172bc4b182fa410f6c31d2c8d75154ccff72bb5870fd226deafdd64"
+   },
+   {
+    "path": "assets/SessionPage-DAWMUCy1.js",
+    "size": 57097,
+    "sha256": "ecbe4e36d196180059e9de416716d7aa5db6151343a867ec8e494a4ed60a56ac"
+   },
+   {
+    "path": "assets/SettingsPage-C558YB4K.js",
+    "size": 59230,
+    "sha256": "c5aa56ce79115669fae8d3e68ba3e4863d222799b2726e95dd279c7915f03716"
+   },
+   {
+    "path": "assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "size": 18940,
+    "sha256": "952dddb45d2f96f71cbf3b7f510b24379afc3c89ea02fcf89d377b45d62c0166"
+   },
+   {
+    "path": "assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2",
+    "size": 22288,
+    "sha256": "0640890476fc1198ab4de571fb658de443c4d85b66466ec09534a8737ab1ce9d"
+   },
+   {
+    "path": "assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "size": 6712,
+    "sha256": "8895e3d49825128bfa5238e4c96e9b432d7a3dadbe5c17c6081267398305dc71"
+   },
+   {
+    "path": "assets/store-1zzEzyaW.js",
+    "size": 17247,
+    "sha256": "707400bb2bca94c2be4b3c2c29ec0344a56f13377124faa0852df96ada11155e"
+   },
+   {
+    "path": "assets/strength-DuaEnM0e.js",
+    "size": 5599,
+    "sha256": "47aa43f28cdcad0f5c9db5d604245a9be14b18eab0b0b1cca8e8ada9ca4e087f"
+   },
+   {
+    "path": "assets/studio-BR2UuYg1.js",
+    "size": 909952,
+    "sha256": "baf9eb19ef0b8e2b34d8914bf0d6ea8e15b65edfdfda4e43a6e2046744bcc960"
+   },
+   {
+    "path": "assets/SyncPage-DmZeN8dv.js",
+    "size": 200722,
+    "sha256": "1c0891a44973047d8a091741adab54fae4549fc9b4d010a820ccb4b7d07271d7"
+   },
+   {
+    "path": "assets/templates-CwDbJl6p.js",
+    "size": 26055,
+    "sha256": "b6d68e3e126383a1cafe2ddc37920bc21e2858a573a45ac31fa7bb1c1c29c107"
+   },
+   {
+    "path": "assets/trend-Bc_1OB8f.js",
+    "size": 2097,
+    "sha256": "0c97eea9f35fe8b29fd6257003a2393d81db7a1fa58f4a437aaef88879897950"
+   },
+   {
+    "path": "assets/update-DXBde6m3.js",
+    "size": 3652,
+    "sha256": "58ba5643439f3c84df7b1329d7eee6aa6c6694820fa45c18fdbc00af675d237e"
+   },
+   {
+    "path": "assets/use-reduced-motion-CV8TaIv9.js",
+    "size": 247,
+    "sha256": "817fe220e3cbe032ae47e75a1704f8f2c09e990fca414aa932105180d40863d0"
+   },
+   {
+    "path": "assets/useReadinessGate-DxwzVF47.js",
+    "size": 1444,
+    "sha256": "64dbe377053639d2ae6185ff3a352f161daabe8d710016242b21bf7b25819698"
+   },
+   {
+    "path": "assets/useWaapi-BdzfbQh7.js",
+    "size": 338,
+    "sha256": "d06a51315d4c631a86fec5ac132bdc225234cb704c39809aea8110b690a2abc1"
+   },
+   {
+    "path": "assets/vanilla-Z2qM859X.js",
+    "size": 338978,
+    "sha256": "316a75edb34f5b6b0338745b7a0d8cc50aa8a816f422f202edbbc9eb6b87f049"
+   },
+   {
+    "path": "assets/viewerDev-BClHWIg-.js",
+    "size": 2798,
+    "sha256": "738afc6fc053a4d7033aa49d39502f398dbca8864813733721597d301b8f41ac"
+   },
+   {
+    "path": "assets/warmup-BUOi1sMO.js",
+    "size": 27767,
+    "sha256": "9254ecd0a95e9670a2b9eded2779113098d96667f1c9b0a50b8239be533e1514"
+   },
+   {
+    "path": "assets/web-ADgmY-G-.js",
+    "size": 1152,
+    "sha256": "e4198aa11431ae4e56c6fda0bc7171da67f97bfcda95206e81105212d7271308"
+   },
+   {
+    "path": "assets/web-B2E--mRV.js",
+    "size": 8475,
+    "sha256": "4d8a6f00d088c0f4238fc1a38b5541864f71328c5b74c0fdc6158e571ac7c72a"
+   },
+   {
+    "path": "assets/web-DBj2Y9P8.js",
+    "size": 949,
+    "sha256": "506dd2c3aa56a7c0a33a1b74d110cddd46072e941fb5d64d4fcaa1227e441dc6"
+   },
+   {
+    "path": "assets/web-dCTFjzGZ.js",
+    "size": 843,
+    "sha256": "e794395bf955a891853e90181e68389f4672b4ea75ec2cdace183273b52784b9"
+   },
+   {
+    "path": "assets/web-Dnf-OK6k.js",
+    "size": 4437,
+    "sha256": "a59ef3b67f822d6166cc7febdb9f1748468255f0cbb20b78354affdfe0aa9872"
+   },
+   {
+    "path": "assets/widgets-Bh50ra25.js",
+    "size": 2645,
+    "sha256": "09f53c110859136215872371e3a4868c51fa06b98ea46eb55d7dc04ac4dbfe38"
+   },
+   {
+    "path": "assets/WorkoutHubPage-gdiCABB0.js",
+    "size": 22164,
+    "sha256": "a7eab036ed19a91fc1d5d0432a45a97518b8f998c9585ef70ae03e047333255f"
+   },
+   {
+    "path": "assets/__fixtures__-CPVJ2Ya8.js",
+    "size": 87418,
+    "sha256": "4ddf28fd25400ab904c5d73c574b775911ea7cdce6e486055c3f5a142348455a"
+   },
+   {
+    "path": "icon.png",
+    "size": 70846,
+    "sha256": "73722c09419f5c776e1e7b41a78c4ae7f9399fe475b4a97a09dcb6ca0c6fded8"
+   },
+   {
+    "path": "index.html",
+    "size": 1400,
+    "sha256": "f6ac1c964714685fc16c307feaf4ed333391f2839054212358dcdc9abdc3b202"
+   },
+   {
+    "path": "render.html",
+    "size": 1101,
+    "sha256": "529cd6f332d60935e3e76b3e58d3c4c62b587beec9ff47e2df6aad0028dce871"
+   },
+   {
+    "path": "thumbs/arm-circles.png",
+    "size": 76809,
+    "sha256": "e2fceb9816e878ba1eb9b8ea8168041410abb3f8e0318723e9e2f160fac33f93"
+   },
+   {
+    "path": "thumbs/assisted-dip.png",
+    "size": 117400,
+    "sha256": "3cc6e01d66ed2286f3382b4a6a1709efb64f7d3d5d888bf5a58f654558e8a471"
+   },
+   {
+    "path": "thumbs/assisted-pull-up.png",
+    "size": 118333,
+    "sha256": "ad13be2bfbb4a758013e43d29b1964cd2f2311f39137cf227faa67982e36b390"
+   },
+   {
+    "path": "thumbs/back-extension.png",
+    "size": 127008,
+    "sha256": "390452bc335b1042fc40f4c467aa1be9020dbb32885abddbdb7b2b42c20ec1d2"
+   },
+   {
+    "path": "thumbs/back-squat.png",
+    "size": 143054,
+    "sha256": "03af2065d3ebdd39697a94defef14aad923dbd7ef43680bb7be17c14bbe95c69"
+   },
+   {
+    "path": "thumbs/band-dislocates.png",
+    "size": 74257,
+    "sha256": "43bd7cf85f18388ccc4ed9e5e3f494c32b6cca0290e467a1136eb4659bb7430f"
+   },
+   {
+    "path": "thumbs/band-external-rotation.png",
+    "size": 115522,
+    "sha256": "141bc6a773871630e8831d0cfa8fc22f7b3694509e65315ccada956446f1cd5b"
+   },
+   {
+    "path": "thumbs/band-pull-apart.png",
+    "size": 78799,
+    "sha256": "8c7711839854222fff02fc143e974c7dd0015ef84f2b4e63a960ea27b7e49c43"
+   },
+   {
+    "path": "thumbs/barbell-curl.png",
+    "size": 90676,
+    "sha256": "f2650057b8038739a547d3f11f06007f697b0eaad0776cdd98e70e86a3a14cc6"
+   },
+   {
+    "path": "thumbs/barbell-row.png",
+    "size": 129627,
+    "sha256": "b8fcc41f1ac9c2ea2c9036093f6f9b4089a2526f1a3746c2a57499d0ca787572"
+   },
+   {
+    "path": "thumbs/bench-press.png",
+    "size": 147141,
+    "sha256": "b7a3ec00872258d229c89a664a2371c7d81d1b5892090e64169f3fbff48d87c0"
+   },
+   {
+    "path": "thumbs/bird-dog.png",
+    "size": 98919,
+    "sha256": "89e93b72d3f305ca3029b0745ca71e1661dbd14a6376f5d70b6efafd37325786"
+   },
+   {
+    "path": "thumbs/bodyweight-squat.png",
+    "size": 112022,
+    "sha256": "c20c49161b92daca872827a9aefd25796fe3dbcabee424a350fdfcf3c3239040"
+   },
+   {
+    "path": "thumbs/box-jump.png",
+    "size": 71909,
+    "sha256": "55a696386e812ce4315d25f3733e5c36a7ad0f97ec9a1efd7e1d62cb6a4b052e"
+   },
+   {
+    "path": "thumbs/bulgarian-split-squat.png",
+    "size": 128642,
+    "sha256": "0a5697753f2a6587135cb6d873855494a96037329587082896859d2dfce8c18f"
+   },
+   {
+    "path": "thumbs/butterfly-adductor-stretch.png",
+    "size": 110203,
+    "sha256": "cc59d76dac60ec9705c7398a6fbafb49ff4a6b9e61f60ca6b897320f0cdc6f39"
+   },
+   {
+    "path": "thumbs/cable-crossover.png",
+    "size": 111380,
+    "sha256": "b9624d64ec86ca5fa8dc39aabf9038313c1b0f6513c9625ff17a230999f96ae9"
+   },
+   {
+    "path": "thumbs/cable-crunch.png",
+    "size": 158553,
+    "sha256": "3c87ac47032691a2b0493fc81096f104ff6ee3f09a88faed748a2cfbfaa22865"
+   },
+   {
+    "path": "thumbs/cable-curl.png",
+    "size": 115162,
+    "sha256": "1adb8835acc5a00c0c556ebebd15ac84e6f7ea7db90da13e486543b1521b77f6"
+   },
+   {
+    "path": "thumbs/cable-lateral-raise.png",
+    "size": 117003,
+    "sha256": "622a583366e24bd9bf1a634b93d4f8b711e6d4a5bcf37e254cb1c69ee0725198"
+   },
+   {
+    "path": "thumbs/captains-chair-leg-raise.png",
+    "size": 110001,
+    "sha256": "6bc561c3fbf25c3a24aaca094f186222a2c2af1f4e1b335286b7d52c19465b80"
+   },
+   {
+    "path": "thumbs/cat-cow.png",
+    "size": 97965,
+    "sha256": "400ffffcc39b4261292441e576c2b19002500357a546b6a8b0effc306cb1b1db"
+   },
+   {
+    "path": "thumbs/chin-up.png",
+    "size": 98206,
+    "sha256": "d05a54d5404b767eff4224843553f6fa4801418df82ff78d3ef30284b60ca402"
+   },
+   {
+    "path": "thumbs/close-grip-bench-press.png",
+    "size": 156718,
+    "sha256": "291ddfe4acaa803dc2843c65699c4751ae15590a5303b67a755d1ed9c86cb9cf"
+   },
+   {
+    "path": "thumbs/close-grip-lat-pulldown.png",
+    "size": 128456,
+    "sha256": "686f232dea66a5268fffe9d101e960549e2018b30837256910050e68d93ea2f9"
+   },
+   {
+    "path": "thumbs/cobra-stretch.png",
+    "size": 85563,
+    "sha256": "395853146c457261324b0acedbc874f85e26031bfaa66be46f124a2bdabeb6f0"
+   },
+   {
+    "path": "thumbs/crunch.png",
+    "size": 99359,
+    "sha256": "1e7f95cf6ce2acb140a28ed74e87ab66bf6e18bb023f95d8a3cd42db1ffacafa"
+   },
+   {
+    "path": "thumbs/dead-bug.png",
+    "size": 83256,
+    "sha256": "6d9a6fb972f90598b516beca765fda3efc0d9dc1d0930b50ab11a2be00251c95"
+   },
+   {
+    "path": "thumbs/deadlift.png",
+    "size": 152235,
+    "sha256": "18c42d79038f6936329b7ef8a0aea369a51ae5bf6522f551073e39aa2fdcd07c"
+   },
+   {
+    "path": "thumbs/decline-crunch.png",
+    "size": 119947,
+    "sha256": "973053ecc201ee94af66c2806a8dac93895e86a59af9f9786cb6c5426ef0a8d5"
+   },
+   {
+    "path": "thumbs/dips.png",
+    "size": 92784,
+    "sha256": "b5436bbc6e9c38d0aa7d2f125392c18911df1741ba7e3a0198b47d7b03a0e2e9"
+   },
+   {
+    "path": "thumbs/dumbbell-bench-press.png",
+    "size": 127802,
+    "sha256": "bbfccddfafd53e599649d49702117f5fd76d9cc7600a8eb53c177568ad6f6a9c"
+   },
+   {
+    "path": "thumbs/dumbbell-curl.png",
+    "size": 72312,
+    "sha256": "6904d219d7bfd2cfcd840aa17dfbe900f4c6482fd469e5551e7982a14540abee"
+   },
+   {
+    "path": "thumbs/dumbbell-fly.png",
+    "size": 118504,
+    "sha256": "cf2097a11dbc1cd0e385665c213da3f4626d535a4e5710f7f8c36bd5b4d96108"
+   },
+   {
+    "path": "thumbs/dumbbell-lunge.png",
+    "size": 88377,
+    "sha256": "53a4efcc84c974bfe69e53e2a0f2a00288dd25c6292b64d725d849adb75bcd9a"
+   },
+   {
+    "path": "thumbs/dumbbell-romanian-deadlift.png",
+    "size": 127527,
+    "sha256": "5649b246f4c073c887591a0d1ed0e28e37af161d571867a5e3d8f73a36704925"
+   },
+   {
+    "path": "thumbs/dumbbell-row.png",
+    "size": 135352,
+    "sha256": "6afeb91a2e243e01b712dfb13f75b0858f4b3d75dc4a6f06549a8623363c0894"
+   },
+   {
+    "path": "thumbs/dumbbell-shoulder-press.png",
+    "size": 117007,
+    "sha256": "9312a66756d37b5ff1d7942b58134f1d3b151188a3bd79861cb4b93eba2efa49"
+   },
+   {
+    "path": "thumbs/dumbbell-shrug.png",
+    "size": 73668,
+    "sha256": "da4f7a2d18babf10a74c84cfc9fc384bcea5b0b06d74288b3c1daf839696a9ae"
+   },
+   {
+    "path": "thumbs/face-pull.png",
+    "size": 94645,
+    "sha256": "3d617abadfdd298a5776f9905360b94d5d7744b9fe3f4026ed49019544c8a10f"
+   },
+   {
+    "path": "thumbs/front-raise.png",
+    "size": 78383,
+    "sha256": "70ae72328c06444e6d31a613d60648a4a2d60117d44e007ccb7e460e67b236d0"
+   },
+   {
+    "path": "thumbs/glute-bridge.png",
+    "size": 93932,
+    "sha256": "7d664dd45c8c216c69e9be3bde710c4da1059c99452d1cab9ed84c5f05d5faf8"
+   },
+   {
+    "path": "thumbs/glute-kickback-machine.png",
+    "size": 108665,
+    "sha256": "2b260220fb83937fe39ddd0c3fb2d35f38488acb847adaae3beeb8b6890da676"
+   },
+   {
+    "path": "thumbs/goblet-squat.png",
+    "size": 102117,
+    "sha256": "e74c062786ee0395f944c720d094c1533f9618f5401622d1040211c7bb1a80ac"
+   },
+   {
+    "path": "thumbs/hack-squat.png",
+    "size": 155588,
+    "sha256": "6c9492ab33f8cc90c6b1ac05533d50d5c8351cbc9126173c5a922fd9e57d5a2f"
+   },
+   {
+    "path": "thumbs/half-kneeling-hip-flexor-stretch.png",
+    "size": 68178,
+    "sha256": "89e354197730be6a34fa0fa01d7ad65b22eda0daf1b3fa9cb7c5b27db81af8df"
+   },
+   {
+    "path": "thumbs/hammer-curl.png",
+    "size": 74244,
+    "sha256": "14092b1bb6be800767fc4f0dec61b75211bbeacb38d37df28959ddc848a3be45"
+   },
+   {
+    "path": "thumbs/hanging-knee-raise.png",
+    "size": 90693,
+    "sha256": "35d6242f9f27afd9b9c1ed3b709684aa1ac4b31258e261d45ace411411dc5b11"
+   },
+   {
+    "path": "thumbs/hip-90-90.png",
+    "size": 69175,
+    "sha256": "97564b20fa9c9193ec723daf7294b00911d595d42dce1bfdf2fb37df918440ac"
+   },
+   {
+    "path": "thumbs/hip-abduction-machine.png",
+    "size": 145164,
+    "sha256": "0fa4d462d08624774206a95b6c12e9b5601117783a37305a79dd678628d0ff7c"
+   },
+   {
+    "path": "thumbs/hip-adduction-machine.png",
+    "size": 142309,
+    "sha256": "bdd84ffd4d278e484e646092c45f9dc933c2b8a5acb110c2d3b3b8e337bc4f46"
+   },
+   {
+    "path": "thumbs/hip-circles.png",
+    "size": 76213,
+    "sha256": "ceedccb663b3b53804eed572903231adbd5c3b2c62690115f2b0257dc67ad50f"
+   },
+   {
+    "path": "thumbs/hip-thrust.png",
+    "size": 146446,
+    "sha256": "50cca87187cfbbe8da73ac750be7aeb083a2654726f92f1bc7a4837958c29302"
+   },
+   {
+    "path": "thumbs/horizontal-leg-press.png",
+    "size": 136635,
+    "sha256": "434fc0de15a5ede00e4edcfbc4b611ba6ac1d1d4eef48cfbf459ddb9f3ad0eac"
+   },
+   {
+    "path": "thumbs/inchworm.png",
+    "size": 135028,
+    "sha256": "aa6336e2c918c0f2df89c15393bc23acba5ff01c42d808f3197fd79444415de5"
+   },
+   {
+    "path": "thumbs/incline-bench-press.png",
+    "size": 146092,
+    "sha256": "628185e684875cdf2a00671ebfaf0e1fdcb7b7e2ca9ed1869779406135e33024"
+   },
+   {
+    "path": "thumbs/incline-dumbbell-curl.png",
+    "size": 125202,
+    "sha256": "7fce5002e12a6bf80963d83f6b9024c8afc5da4d4c02937e887d1a8440910cca"
+   },
+   {
+    "path": "thumbs/incline-dumbbell-press.png",
+    "size": 145945,
+    "sha256": "a3188b719988788bbb90a046dc818d4ea2baa890731b6eb75437f4eda355acfa"
+   },
+   {
+    "path": "thumbs/incline-dumbbell-row.png",
+    "size": 109283,
+    "sha256": "c57d721f2e1cea87fcd99ff17bf0302d320566b80fca8e7da9e0dd8d29c9400c"
+   },
+   {
+    "path": "thumbs/incline-machine-press.png",
+    "size": 111235,
+    "sha256": "9eb48e575531b2d8fd790fd302c09aa5c60c0e3430dfa9a27884ae0d7771088d"
+   },
+   {
+    "path": "thumbs/jumping-jacks.png",
+    "size": 63119,
+    "sha256": "44967ccf1a402a383befed807729134ea222bc31c2bdb326b7984e5a65cc3a84"
+   },
+   {
+    "path": "thumbs/kettlebell-swing.png",
+    "size": 77398,
+    "sha256": "d46e2d3cafcffdf5ad2faebb814f1659c7469edda2f7b1c0a963cb129ab8d247"
+   },
+   {
+    "path": "thumbs/lat-pulldown.png",
+    "size": 133457,
+    "sha256": "0559a0219ce824798bf7579e659b918f27e1cd87a1ca54279a7327d8108a1ea2"
+   },
+   {
+    "path": "thumbs/lateral-raise.png",
+    "size": 78333,
+    "sha256": "a90e7b6c7b3dd27dc02584008d65f105b3b7ab37258ef2ebd5c11d5aaf00324b"
+   },
+   {
+    "path": "thumbs/leg-extension.png",
+    "size": 118489,
+    "sha256": "8bf94eb3c91b1d92ec55f16ceb6bd7633182296b7901c31d3205c9db99a4e03f"
+   },
+   {
+    "path": "thumbs/leg-press.png",
+    "size": 170885,
+    "sha256": "88e685f9819a11bfebca054c266515487f9446c89d6e2c14009aa72174b4d66f"
+   },
+   {
+    "path": "thumbs/leg-swings-front.png",
+    "size": 62641,
+    "sha256": "d92cfaf0dd0697d1d0472a2280d38d0a05b102571590cb8e5e46e062ce3f1a0f"
+   },
+   {
+    "path": "thumbs/leg-swings-side.png",
+    "size": 56849,
+    "sha256": "ad9f891629bd0fbbf1f3a3b17133e56fe9a8921853331cf9c93c7215ba515ba7"
+   },
+   {
+    "path": "thumbs/low-to-high-cable-fly.png",
+    "size": 125290,
+    "sha256": "c06fd17a632011e73ae260f9f0f769c2d90511da1956ee53a9950b8f9ff23b12"
+   },
+   {
+    "path": "thumbs/lying-leg-curl.png",
+    "size": 105342,
+    "sha256": "d7026452650887fbc8a49db026c06a8285b4717a45868bece0a2b83700094db3"
+   },
+   {
+    "path": "thumbs/machine-bicep-curl.png",
+    "size": 149958,
+    "sha256": "de2717eac3ab7436ec301a4ab1bcba573c9ff3ff9afed2cf22a81e98dd189759"
+   },
+   {
+    "path": "thumbs/machine-calf-raise.png",
+    "size": 111622,
+    "sha256": "cdf3558428acd593a605c51afb8bba80df85cea5b6ae01ce30d47c709825dd4d"
+   },
+   {
+    "path": "thumbs/machine-chest-press.png",
+    "size": 120280,
+    "sha256": "9820949ee19978c1400c733c1cf2d7a8afff00eae67f04a4ec3970885eefff99"
+   },
+   {
+    "path": "thumbs/machine-crunch.png",
+    "size": 122777,
+    "sha256": "ecc7adc36228992fe899d5af4eb2a7bd98a63d91e80591139aaa402d7c44560e"
+   },
+   {
+    "path": "thumbs/machine-lateral-raise.png",
+    "size": 138045,
+    "sha256": "a3913ef0258522af7919b274d13dc24214e960c25ec17aab53e91e792becdd9d"
+   },
+   {
+    "path": "thumbs/machine-row.png",
+    "size": 142926,
+    "sha256": "6fb32208c60b087ba7e8720d51bad7bd72e27d0bb967c9343f8b8a4db1d36058"
+   },
+   {
+    "path": "thumbs/machine-shoulder-press.png",
+    "size": 125734,
+    "sha256": "ed35c65044fa4101134f7f7a770b0715df504eece99d72b5bb56497cbf1a55b9"
+   },
+   {
+    "path": "thumbs/medicine-ball-slam.png",
+    "size": 102308,
+    "sha256": "2bae611f1af3b22ae5df81b085c9e4747e2846c775aca17408afcac62845aee4"
+   },
+   {
+    "path": "thumbs/mountain-climber.png",
+    "size": 117812,
+    "sha256": "2d7157e5d95cdc9dbc9c01bf7a968e549e0c4ad58f8331c1c6a73e09efe1302a"
+   },
+   {
+    "path": "thumbs/overhead-cable-extension.png",
+    "size": 126123,
+    "sha256": "f83194d31d5226e188e544979038242885e80b2bc14540aacf64fb0b463f70d5"
+   },
+   {
+    "path": "thumbs/overhead-press.png",
+    "size": 88518,
+    "sha256": "df99b62124a6477335787d6b7796810ae13d45d5b3fc7f10c78773f2056f7d15"
+   },
+   {
+    "path": "thumbs/overhead-triceps-extension.png",
+    "size": 106431,
+    "sha256": "591db24ee66591b440a2837aa731c25afe5e2dacba8642226a1d7777dbaafdf1"
+   },
+   {
+    "path": "thumbs/pallof-press.png",
+    "size": 129129,
+    "sha256": "eaf347a323bb95cacc198e5b837a43f984f0bc7a4134399cbeaadf473ce199f3"
+   },
+   {
+    "path": "thumbs/pec-deck.png",
+    "size": 135909,
+    "sha256": "a2f7ebc569e3efb05f49038204b3aaf1bea13b23a3596f542026f26254d9e5f9"
+   },
+   {
+    "path": "thumbs/plank.png",
+    "size": 90112,
+    "sha256": "348ab9ad35b8c87eb1d65a9774fa302eec5b9d5b3bfe460195581a839d20d6bb"
+   },
+   {
+    "path": "thumbs/preacher-curl.png",
+    "size": 111468,
+    "sha256": "b7d324002d1dad81030112535b866bfddfe7149581bb176a6cd7d10237325fda"
+   },
+   {
+    "path": "thumbs/pull-up.png",
+    "size": 94523,
+    "sha256": "9030d244813053f1d050ec8b2afb9d26402b19d16e75977648b749b340f6d1c3"
+   },
+   {
+    "path": "thumbs/push-up.png",
+    "size": 103077,
+    "sha256": "884dc2f68c27d2b7ae526c930496eaa3eb892116caa596490ed3f0218d9b3431"
+   },
+   {
+    "path": "thumbs/rear-delt-fly.png",
+    "size": 104576,
+    "sha256": "1fc5ab7e4af8f93c8be313b615cdb091468acab5fe82e8620dd3cb921df3dbf0"
+   },
+   {
+    "path": "thumbs/recumbent-bike.png",
+    "size": 114628,
+    "sha256": "837b23a44ccd40d4ccf96a6452320a4b15bab993e98ae1e74c3fad8a0d4b4866"
+   },
+   {
+    "path": "thumbs/reverse-pec-deck.png",
+    "size": 137812,
+    "sha256": "3756f2d8c69e3b561f02fabfa6d106425554eb8c472ba293e7ffd5a4aa7f57f5"
+   },
+   {
+    "path": "thumbs/romanian-deadlift.png",
+    "size": 163627,
+    "sha256": "219d2e114f16d61e8a93f313975fa1a0ba8fa8dc86cd259275312d6bb1ef9874"
+   },
+   {
+    "path": "thumbs/rope-pushdown.png",
+    "size": 120808,
+    "sha256": "98e74f333610a2068e2875da9106687594791ec711c6f8f318a787683b2879b9"
+   },
+   {
+    "path": "thumbs/rotary-torso.png",
+    "size": 118671,
+    "sha256": "982a1eb3d641d64f86d54c7c598d2231014e4ad052989a1dd0b0feffe1c7b1a4"
+   },
+   {
+    "path": "thumbs/rowing-machine.png",
+    "size": 118571,
+    "sha256": "897003c64a29a1f702a3c0c88c49f06500c61f5b0196793117fbe19044256331"
+   },
+   {
+    "path": "thumbs/scapular-push-up.png",
+    "size": 103588,
+    "sha256": "135f7a9b24b371fec67363fc7181816ba4bfa2c098486e744709534740de2854"
+   },
+   {
+    "path": "thumbs/seated-cable-row.png",
+    "size": 126166,
+    "sha256": "9cae8f543b36d603308bc17e7ef927a8407378fcb12531b73c52c2a2da24810b"
+   },
+   {
+    "path": "thumbs/seated-calf-raise.png",
+    "size": 101814,
+    "sha256": "0afdc9d8eeeded377f4d5a170a3e7d649a80fa2d8325412fd98d4b89f5c81a30"
+   },
+   {
+    "path": "thumbs/seated-leg-curl.png",
+    "size": 122147,
+    "sha256": "f994caab01c0bdfb95f3ef6423f3ec736a9276086e5ff24b6fe7300bace60602"
+   },
+   {
+    "path": "thumbs/side-plank.png",
+    "size": 95997,
+    "sha256": "380f0e62fc915212db40282f30997c5117f709cfcdee4e4713d964f0ba6b87df"
+   },
+   {
+    "path": "thumbs/skull-crusher.png",
+    "size": 111008,
+    "sha256": "c1abe6a57d9214711ebcd8cfe93083249006fbaec901db090b91a3cebdaa7b4f"
+   },
+   {
+    "path": "thumbs/smith-bench-press.png",
+    "size": 158531,
+    "sha256": "cbfb8b24c411f25dcce843a8fa7bc6acd4646af6278255dc951a6c9eb5eb0c91"
+   },
+   {
+    "path": "thumbs/smith-incline-press.png",
+    "size": 171487,
+    "sha256": "0e4d7bed0e2f08fc5632130a417892269a518657cd65b0abd2192a624d5be384"
+   },
+   {
+    "path": "thumbs/smith-squat.png",
+    "size": 152418,
+    "sha256": "e9cd86843fa0c894b3f364942e2ce74a1dceea20c02e054e48a62354b834995b"
+   },
+   {
+    "path": "thumbs/spinning-bike.png",
+    "size": 104888,
+    "sha256": "f01cf0e3c7bf7bc5938f43d146d1d011132ec40af9db22b3d2d67afeb523a8ce"
+   },
+   {
+    "path": "thumbs/standing-calf-raise.png",
+    "size": 115897,
+    "sha256": "1178c5ab53c8707ebf13daef8ef68d3479dadc2a249d816751f042c71aeb775a"
+   },
+   {
+    "path": "thumbs/standing-quad-stretch.png",
+    "size": 64406,
+    "sha256": "e61d0fc03e13b9ed49c92fd44647fbe9d6f3c51e3b10033c47be1d7ba3761b1c"
+   },
+   {
+    "path": "thumbs/stationary-bike.png",
+    "size": 91356,
+    "sha256": "c08e4bbd3f80f90870343eabe04967505c5c1d42e2e04646506583c4f51fb97f"
+   },
+   {
+    "path": "thumbs/step-up.png",
+    "size": 79007,
+    "sha256": "7027443715beb3fb61643ebc9f9e3323166bca2ecc6a715f8adc7364a128f1e4"
+   },
+   {
+    "path": "thumbs/straight-arm-pulldown.png",
+    "size": 121725,
+    "sha256": "091c9a5233b872b31fb0782bdcb9c02709f177d8ace5b9fd8e3e2da47119c8ff"
+   },
+   {
+    "path": "thumbs/supine-hamstring-stretch.png",
+    "size": 98271,
+    "sha256": "3bd7ed2155e660345b68818e3850d1324725790b5cf9e75f3c92ff76c54c16e4"
+   },
+   {
+    "path": "thumbs/thoracic-foam-roller-extension.png",
+    "size": 103448,
+    "sha256": "f33be7e3be22afa116aa2248e4f8ef12ca151d43916f192bc63f7d0d680307d3"
+   },
+   {
+    "path": "thumbs/thoracic-open-book.png",
+    "size": 82009,
+    "sha256": "b735778404767a63aa497a430ef168bdfe16c63c6b118ac318ed2da9d675a5c7"
+   },
+   {
+    "path": "thumbs/triceps-machine.png",
+    "size": 122048,
+    "sha256": "4ed00825255b66086afb0e84e67806c8a6e5dd458c59a3fe123633c4b24a7cb2"
+   },
+   {
+    "path": "thumbs/triceps-pushdown.png",
+    "size": 102420,
+    "sha256": "3fd0d43d10345e80a2769b12948260cf31516e8991fecb416dccdc2c22ae0e11"
+   },
+   {
+    "path": "thumbs/trx-row.png",
+    "size": 102168,
+    "sha256": "99fe87217e90afa2133dee7bb3544aa21ea82c13122b8009947d1eb5ceb522fb"
+   },
+   {
+    "path": "thumbs/wall-calf-stretch.png",
+    "size": 53030,
+    "sha256": "e9e7b5aaba9acc00edeeea107bdeaf98f186b3055954a7e6c6e477af4b7d5286"
+   },
+   {
+    "path": "thumbs/wall-slides.png",
+    "size": 63193,
+    "sha256": "678a725b038edae4dea25a5778c73c0300171dfcc5a03ad9dec39e8fb32f567c"
+   },
+   {
+    "path": "thumbs/worlds-greatest-stretch.png",
+    "size": 81508,
+    "sha256": "ec78f6d9075d6d8d1582caa91373c8bc4f794d16e6c454a3309476800a349e85"
+   },
+   {
+    "path": "version.json",
+    "size": 113,
+    "sha256": "b7d0f2fce6ec9399e85c8bdf88c4a895b1586d70ba2d6231a2479e9f088b3822"
+   }
+  ],
+  "minAndroidVersionCode": 3,
+  "minDesktopApi": 1
+ },
+ "apk": {
+  "versionCode": 3,
+  "versionName": "1.2",
+  "url": "apk/Vita-Palestra-1.2.apk",
+  "sha256": "4150249ff664ea8952442839cdccf35de5b59769ab25af26e72f8f7fe72c3d24",
+  "size": 18520488
+ }
+}
