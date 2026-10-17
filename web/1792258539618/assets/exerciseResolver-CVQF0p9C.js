@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-DN0Lsyzt.js";import{_r as t}from"./icons-CW5vRRZT.js";import{U as n}from"./main-Duz5061t.js";import{l as r}from"./exercises-BBQnU-lu.js";var i=e(t(),1);function a(){let e=n();return(0,i.useCallback)(t=>r(t,e),[e])}export{a as t};
