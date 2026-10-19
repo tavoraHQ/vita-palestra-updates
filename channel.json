@@ -1,22 +1,22 @@
 {
  "app": "vita-palestra",
  "v": 1,
- "publishedAt": "2026-10-17T17:50:02.655Z",
- "notes": "Riscaldamento in palestra tutto in piedi (niente esercizi a terra: restano nella sezione Mobilità per casa). «Sostituisci esercizio» mostra per prime le alternative più simili, con il grado di somiglianza.",
+ "publishedAt": "2026-10-19T17:14:11.367Z",
+ "notes": "Versione 1.2.1: risolto l'errore «Missing parent directory» che bloccava gli aggiornamenti automatici sul telefono. Da questa versione gli aggiornamenti successivi arrivano di nuovo da soli. Include: peso unico per esercizio, bottone «Serie fatta», 3D in ogni esercizio, riscaldamento in piedi, alternative simili in «Sostituisci».",
  "web": {
-  "version": 1792259401769,
-  "label": "1.2.0",
-  "path": "web/1792259401769/",
+  "version": 1792430009083,
+  "label": "1.2.1",
+  "path": "web/1792430009083/",
   "files": [
    {
-    "path": "assets/actions-DraGujsR.js",
+    "path": "assets/actions-BRLn_3q8.js",
     "size": 4960,
-    "sha256": "17af1113b6bbbdc52b894ecd2f4b083b95d27c7136354059b788e5dc35e77daa"
+    "sha256": "f66bc1062abc1a1e1e8de43d7c5772a24819a399b68c321d80e7bdf79e75f4ad"
    },
    {
-    "path": "assets/android-e-EgoQCg.js",
-    "size": 4185,
-    "sha256": "fecd669de7514c0808e19409d305b2fb86a2b6b1548bea16f9b96bf3e2ec3ddf"
+    "path": "assets/android-Dj95qfQ8.js",
+    "size": 4764,
+    "sha256": "02137b17938d031357902741c0d83a79e8902efb507ca7cf13406009e3441aa1"
    },
    {
     "path": "assets/AnimThumb-CP0pSDzw.js",
@@ -24,9 +24,9 @@
     "sha256": "5164f1715c75b40b4959946b16af2f8ad0e0c354127761c49ac104a777c48ca3"
    },
    {
-    "path": "assets/BodyPage-4thEJh3D.js",
+    "path": "assets/BodyPage-DGowZHJU.js",
     "size": 98460,
-    "sha256": "cdf977c2d787dacf5411bcb005e1f49e0e91342ec5282440c47cae46dab6b91e"
+    "sha256": "ae3a2c615f900a0b326fa9ba526246896a847891c167248a721bc6b9ebfe9d42"
    },
    {
     "path": "assets/bootState-B8Yos9Sm.js",
@@ -34,9 +34,9 @@
     "sha256": "6193375ba41d4fc95e8c68062f45a366ec6f85fe5c2c9832ba02a9167a5b9976"
    },
    {
-    "path": "assets/CalendarPage-DKSeIz-X.js",
+    "path": "assets/CalendarPage-GObp_Yci.js",
     "size": 70064,
-    "sha256": "e329ee58a2258f315b7a6a9d1e9cc112827c4a82b70d8370e590cd10c0877fa6"
+    "sha256": "ca85be224845a013a8964ffdee2ec0ecd3b5985b0705ecaa6a4f748b5f800b80"
    },
    {
     "path": "assets/channel-oeLU3pqP.js",
@@ -44,9 +44,9 @@
     "sha256": "0571ba0c4d2ea94251989370cad7c388fc8faaf9d7ef7397b04963b1f0ffcb8d"
    },
    {
-    "path": "assets/DashboardPage-CevdCkWW.js",
+    "path": "assets/DashboardPage-B991G9Zb.js",
     "size": 76759,
-    "sha256": "9863b78c4e29f96ba30e8f058a2946be1f2ce37c3897a8a6542435bd126f71c1"
+    "sha256": "6fa3ad3e12e95b4bc9686186147040e48e5c0c69d180f5b2170e3d5f87cff4b0"
    },
    {
     "path": "assets/dates-lyPgAP5H.js",
@@ -94,24 +94,24 @@
     "sha256": "7c5e8acc0620e0957ab450785dcd9365675b097d9a1d5ff9939b9d5b9757245e"
    },
    {
-    "path": "assets/ExerciseDetailPage-7pM_45Pg.js",
+    "path": "assets/ExerciseDetailPage-CZlKiqsi.js",
     "size": 38628,
-    "sha256": "6d02d042e2eea6d782acaf0c22622c1879b559e643e3b72a61e360c51a581ede"
+    "sha256": "19909719a2d517fb93a7152214517015182f779d3fe98ff95b92b47a87a32420"
    },
    {
-    "path": "assets/ExerciseLibraryPage-B1eC7gAx.js",
+    "path": "assets/ExerciseLibraryPage-CxnWobAA.js",
     "size": 12596,
-    "sha256": "8676cc9866036b57b29a79e9c469f9b28dac2037c8838df063c52df8252af2a2"
+    "sha256": "c35b9acb6610c8649b6f904e177f3f73c64cd888aad1601c3f07402fedba7adb"
    },
    {
-    "path": "assets/ExercisePicker-CXOsTpb6.js",
+    "path": "assets/ExercisePicker-nKP7dMf7.js",
     "size": 30539,
-    "sha256": "03b0dbf31f548bd1b9a5c6423df2976461038c4dd870825c5f5004a034e9e5f1"
+    "sha256": "8a03726efb573d043458ea048fa26e028458013809db85f2894b9d183558ed74"
    },
    {
-    "path": "assets/exerciseResolver-D2Kubeoi.js",
+    "path": "assets/exerciseResolver-Dvh6lW1Y.js",
     "size": 265,
-    "sha256": "88d8f2e14e1bd8f8c9afe3ba4e165497c210e584124b87b6b1df5f0b7977d921"
+    "sha256": "4392661c0335a086d91f55c12254a9e2db23be9f4e4db6f991442f0fb930e3be"
    },
    {
     "path": "assets/exercises-BBQnU-lu.js",
@@ -169,29 +169,29 @@
     "sha256": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2"
    },
    {
-    "path": "assets/labels-DUB41i3u.js",
+    "path": "assets/labels-CYh0gDvu.js",
     "size": 1948,
-    "sha256": "58806aa6bd808d513d4888456504f7f9a60dc72149d87fa7d435ec2b8937a259"
+    "sha256": "a254ae5498f2943acf70bc946e2940b30563548f1d813147b3a97d572c32db17"
    },
    {
-    "path": "assets/main-CX1ZVMu1.js",
+    "path": "assets/main-7nm8zCch.js",
     "size": 136863,
-    "sha256": "2a1383a2cbef196370566c5b5b74451ff35f4debaa38038bd82f92741fc6026b"
+    "sha256": "0bd9d0262157c507e8e9977135c9c1fbf789a4c0a3429cd778a6ca839ee9660c"
    },
    {
-    "path": "assets/mobility-DAVTApYr.js",
+    "path": "assets/mobility-CseQZNOk.js",
     "size": 35901,
-    "sha256": "9eabd6ac9b60d732369efc9752cc53c11af97a845905293d0bf383466d5b5697"
+    "sha256": "2b7139b2975e2ce6dab7b9966703c58c85708b621ce6ca0f55c1eda9d1b9da14"
    },
    {
-    "path": "assets/MobilityPage-BA5RxxYN.js",
+    "path": "assets/MobilityPage-B0okFVGa.js",
     "size": 44139,
-    "sha256": "83ae8b83ad3e3568fd7feaebd238a5bebc5a0e528b1f68847848e0505ee9ad2e"
+    "sha256": "a50523e2ca06a92fa07424bcc454f19ec6069941f7d13c134667905ae1c9ad00"
    },
    {
-    "path": "assets/MuscleMap-CQ5LhR6T.js",
+    "path": "assets/MuscleMap-CLwVWnMo.js",
     "size": 13109,
-    "sha256": "8935b85090488fdf6e82da39feda1275fd8d357da1a09ebe3ee1cac947325226"
+    "sha256": "db35ea8d7e0a36c6a7fb81dd4e20ce0b90bbe3fe74df6a8e5208c1913db1ba64"
    },
    {
     "path": "assets/muscleMapPaths-DhTjzfNI.js",
@@ -209,24 +209,29 @@
     "sha256": "3a16fec10483d1452f52f5d686ae11124f88e1172296738e573e7f3c60b0bf6e"
    },
    {
-    "path": "assets/NutritionPage-68yRqBNg.js",
+    "path": "assets/NutritionPage-Bo7GFx29.js",
     "size": 147484,
-    "sha256": "c5a3ce4dfe7c1301efb2e960dce64a2db9f51c6d609b39795e1de5ec958e57f7"
+    "sha256": "205e7fe95e117b5faf66f6b58fd67b7c476e8edd6bae5a2a573c1d895ce5f42c"
    },
    {
-    "path": "assets/OnboardingPage-DGscPZG3.js",
+    "path": "assets/OnboardingPage-CaMkQCFs.js",
     "size": 51157,
-    "sha256": "b1eaf5a9e5c92ab7c2ef5942a8f7395d89c3d869368596df244ef0500621563b"
+    "sha256": "3d6ee7a8d9274a4226955320f5eed0dd977ebc4dcd1ca4109c79c7381d665a9b"
    },
    {
-    "path": "assets/PhotosPage-CGc8PXLK.js",
+    "path": "assets/PhotosPage-DFiVM5kw.js",
     "size": 66463,
-    "sha256": "0d5f18ec6f2a1eeb0bdcf4d98a8a7052c40b25168af4ec9bba705290f8105f5f"
+    "sha256": "147f1906b92623c66e7e07d4ecd79cc5bc382effb5ba3368a842cc1861ab4011"
    },
    {
-    "path": "assets/planActions-ClLpW5BV.js",
+    "path": "assets/planActions-BbbZ_00d.js",
     "size": 1329,
-    "sha256": "cb3e88b0d320a79e576c600a53c1c2bb859c2776bab95f970639c0a1d346b783"
+    "sha256": "8ceb21131dc3946f5bff62e33588b6d4d4c510dfa9b664c4d72b4e0e05b0b419"
+   },
+   {
+    "path": "assets/PlanEditorPage-DU0kHhor.js",
+    "size": 43869,
+    "sha256": "c67187a2df7733a6462cd75d12d0da2197274741cbb28794251266f538521e52"
    },
    {
     "path": "assets/PlanEditorPage-Sj_IVxaV.css",
@@ -234,14 +239,9 @@
     "sha256": "4b554f5e40c1283d2a99c9a7d051d8f87b411171e903c18e2fc53e13a2bfb4f8"
    },
    {
-    "path": "assets/PlanEditorPage-zCAVvA0z.js",
-    "size": 43869,
-    "sha256": "e6f27d553332df69c596ace3a21bf49b6dbcf5ef64300178ab72d193afcafcca"
-   },
-   {
-    "path": "assets/PlansPage-Ck-Uypcu.js",
+    "path": "assets/PlansPage-Df5F2cCb.js",
     "size": 15327,
-    "sha256": "84034a160f0519d51eec999947983ccafff6c0607538b7138228d2b6acba8c6b"
+    "sha256": "5d0148fed682447ba943361a1e67de017f2e4ba5dad6b80939e0c2e4c9debbb1"
    },
    {
     "path": "assets/preload-helper-Bpmr02HK.css",
@@ -254,9 +254,9 @@
     "sha256": "b8b07f0b616c63a358b26a1b7f181490e8ea4d49b11171c87a98592f1ebc83f6"
    },
    {
-    "path": "assets/ProgressPage-1RF7r2Qa.js",
+    "path": "assets/ProgressPage-Bj16uu-m.js",
     "size": 79454,
-    "sha256": "931ce3783e4d22b30cc37ee734f8b0d6f6b5db12d23cd791921f18e7f60007ff"
+    "sha256": "cf594d55d153491581ffea98615795b740313f6ba7ec5209255f7d74eecf0c0c"
    },
    {
     "path": "assets/props-VFjUeQc-.js",
@@ -269,24 +269,24 @@
     "sha256": "c837e83da8996c883cc00fefc6e59a1b6dd2214d1246bc8ad22975cb567eab7e"
    },
    {
-    "path": "assets/ReadinessSheet-lqzXkjrl.js",
+    "path": "assets/ReadinessSheet-C1lzpy4u.js",
     "size": 21497,
-    "sha256": "f6271ef2164a2996c8b229f7edd3158a6386c7c88e976f2f4dd593a8d84e3ee4"
+    "sha256": "c02e252eba9e009816bb602d5afabd0b3f02110c319af28df758a26cb4fcff48"
    },
    {
-    "path": "assets/recovery-DKwKmKr5.js",
+    "path": "assets/recovery-CUz9R4Zk.js",
     "size": 30751,
-    "sha256": "6a866fe3728251dcf47fdcae84c2b02aff73d5c794ccb299118dc530aecfbed9"
+    "sha256": "23de11da5f242be8bc6d19fe985d7ad780756e5d4aa1d8a7cfdb3a4a90f0990f"
    },
    {
-    "path": "assets/recoveryApply-CZa2eFJQ.js",
+    "path": "assets/recoveryApply-BGFmkFRD.js",
     "size": 1464,
-    "sha256": "714d1e0c113d120bab8080880a7b73177038cc847cf59a3e823b239a13b86680"
+    "sha256": "49da9bca65931049b1c02c17654f482914cdfecfe8f935f226e7a43a2bc59810"
    },
    {
-    "path": "assets/RecoveryScreen-DU0E80Wn.js",
+    "path": "assets/RecoveryScreen-B_wvuoRY.js",
     "size": 6587,
-    "sha256": "7ab55dd9ae41bf8b02597485b01bd384d29787c4155d047e8f9e8160f1601c54"
+    "sha256": "d9846fd9a70c71d8cb19c98de88c8467e001f5e9ec96043fc9a1c47a6a44c1dd"
    },
    {
     "path": "assets/render-BvzgzbfE.js",
@@ -299,9 +299,9 @@
     "sha256": "1a2afa3c8866c5d31798200ea0e7af5089182afa99ab1aea4e43879b2cb47999"
    },
    {
-    "path": "assets/RestAdviceChip-C3x0t7XZ.js",
+    "path": "assets/RestAdviceChip-CK5vBvUh.js",
     "size": 2066,
-    "sha256": "fc5f08cb8df6857553728903d213b4879dbf1f140e2e0d89fd4e37e98ae8a4e7"
+    "sha256": "0879c732ec8c5f555a0f4fd5e58da008c6f2a5f6153852c3a1bc2a052f334d03"
    },
    {
     "path": "assets/search-UxZjwO3r.js",
@@ -309,19 +309,19 @@
     "sha256": "6390b94139e20ac12e521c346cd0bb79e276818cd20cdbcc19b2eaa045b7338b"
    },
    {
-    "path": "assets/sessionActions-DXoYbNW8.js",
+    "path": "assets/sessionActions-D_TKzIkK.js",
     "size": 46991,
-    "sha256": "23e8bad8d7bdb460d5fe476cc17f76f04c7b1da3d9c498d5e23e0191e52300ce"
+    "sha256": "a6e43bc9050baf7e4bc0049ece7f6e1250ade85caf8f32897f3e6890fdc5fe41"
    },
    {
-    "path": "assets/SessionPage-DBQEbdFy.js",
+    "path": "assets/SessionPage-DMs6cFMA.js",
     "size": 60046,
-    "sha256": "275a8d4ae685fd85f979f826598d8628ea6fa6024a6d5480a5d9db42842f7dc9"
+    "sha256": "cbaca068a8989f83b6f89fd47a334b71edf3095f7c7c886d0563d4accf0f70f5"
    },
    {
-    "path": "assets/SettingsPage-ftxYkzaP.js",
+    "path": "assets/SettingsPage-DBaBfmpb.js",
     "size": 67393,
-    "sha256": "3541202d244f08a1138193870bf0db3a6c132e71d7877ca8489af192e363efdc"
+    "sha256": "8668f8799084a61713d94e1afe301c92e0bcf1172bc6c8a8f097f2b3933831fb"
    },
    {
     "path": "assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
@@ -339,9 +339,9 @@
     "sha256": "8895e3d49825128bfa5238e4c96e9b432d7a3dadbe5c17c6081267398305dc71"
    },
    {
-    "path": "assets/store-6WBr-2RV.js",
+    "path": "assets/store-D6UL_mca.js",
     "size": 16881,
-    "sha256": "04d939dc1d8e54ab74c4516462944601490ab57dc2b9e7f7b7ca74b567e07759"
+    "sha256": "b0d0c8ee8128d7f314e32d2a47bd77a759139e82521f0c7b18f622ac2b2dc1f1"
    },
    {
     "path": "assets/strength-DuaEnM0e.js",
@@ -354,14 +354,14 @@
     "sha256": "8f7a59181021a83e761ce08f57d07fb76c8f65cf27a210314900939839d599c8"
    },
    {
-    "path": "assets/SyncPage-D3QPZodi.js",
+    "path": "assets/SyncPage-DeuHZnNM.js",
     "size": 200726,
-    "sha256": "1c784a4af6920420d3b1e04527182f6e141157c43535f2c0916796946f1a3a7f"
+    "sha256": "408893da9bacab0b2bb2308d9714e42afffc8bcb70a5da2bf07e08776d48e6e8"
    },
    {
-    "path": "assets/templates-DoSipvXm.js",
+    "path": "assets/templates-C6S6trUj.js",
     "size": 26055,
-    "sha256": "8ac24363e81ec21cc8484b16c19125c72e0cdb91b4e628bc0ea75bdaf75612c3"
+    "sha256": "de8f404be176130465cd9bf017aaca9b1857f442fe0462b5d5ab2dffc5eaf3e2"
    },
    {
     "path": "assets/trend-UGWx484L.js",
@@ -369,9 +369,9 @@
     "sha256": "7173fe3d57a5a304492f1ec7996bb64a786962720a675fd9cd968e1bbc36df7d"
    },
    {
-    "path": "assets/update-CQgOOrSn.js",
-    "size": 3652,
-    "sha256": "7b0b3716e4f89c71507b24618119c05b0bb1ddb8e25a56f91519c9aae8cd9f71"
+    "path": "assets/update-_GQff7O_.js",
+    "size": 3660,
+    "sha256": "f62fffb268b5139504b5e74d0a8f1575926ebb62314f0d6f528e31d67e13cacc"
    },
    {
     "path": "assets/use-reduced-motion-BhMj2m4j.js",
@@ -379,9 +379,9 @@
     "sha256": "e1d59d52466b61131b02c9bed0e32a1181233ca17d4accd1a19ae2f6e44b4661"
    },
    {
-    "path": "assets/useReadinessGate-CxRRxZk2.js",
+    "path": "assets/useReadinessGate-Bd00Dg_w.js",
     "size": 1444,
-    "sha256": "e5002e25beca84707c3aace206d183b61aba6d503cc227c177b9635cb3f87bce"
+    "sha256": "6b5d9883f7304fb09ff401cc4c72716f2894d45e2af137545366fec72ccdb23d"
    },
    {
     "path": "assets/useWaapi-B_DU1X51.js",
@@ -434,9 +434,9 @@
     "sha256": "77f2314f4346eb399de38e0cb7f41794dfd6f9c26b7ebb57443532cd4950a304"
    },
    {
-    "path": "assets/WorkoutHubPage-u-cv6mLM.js",
+    "path": "assets/WorkoutHubPage-DvI9ElcK.js",
     "size": 22165,
-    "sha256": "6f37900dd12753eba40a7ac2c815157d8096fd7e3392ce9f0e91af5d90a380cd"
+    "sha256": "363b031cb380ae096fffc1152db13db7c21fc30735a5a7348d406b1d479dba4e"
    },
    {
     "path": "assets/__fixtures__-CPVJ2Ya8.js",
@@ -451,7 +451,7 @@
    {
     "path": "index.html",
     "size": 1400,
-    "sha256": "22a375c20ca4799d4ba90e50a9b213953fdf66f300dc2f2e9f656beffd961c08"
+    "sha256": "35262260e954db7afb88b17edd74370fba28408c17a39f37efbcb2b51adb111d"
    },
    {
     "path": "render.html",
@@ -1056,17 +1056,17 @@
    {
     "path": "version.json",
     "size": 113,
-    "sha256": "9987ae0e2663172efe42bb9b229c3f3f2398d74867fd14aea1ce789d5c9eb354"
+    "sha256": "81ffcab633166222c13970dc6ea532e93f7d28604210c7a90bd5a742b620ef84"
    }
   ],
-  "minAndroidVersionCode": 3,
+  "minAndroidVersionCode": 4,
   "minDesktopApi": 1
  },
  "apk": {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "url": "apk/Vita-Palestra-1.2.apk",
-  "sha256": "4150249ff664ea8952442839cdccf35de5b59769ab25af26e72f8f7fe72c3d24",
-  "size": 18520488
+  "versionCode": 4,
+  "versionName": "1.2.1",
+  "url": "apk/Vita-Palestra-1.2.1.apk",
+  "sha256": "081ecd447957a43d21a55483d9434f4fb468e2c27c6458a2c74eb6eade8ec2ab",
+  "size": 18529894
  }
 }
