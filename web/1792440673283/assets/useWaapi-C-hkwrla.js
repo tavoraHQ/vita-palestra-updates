@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-9PqYltv3.js";import{_r as t}from"./icons-D_bUUsZ-.js";var n=e(t(),1);function r(e,t,r,i=[]){(0,n.useEffect)(()=>{let n=e.current;if(!n||!t||typeof n.animate!=`function`||window.matchMedia?.(`(prefers-reduced-motion: reduce)`).matches)return;let i=n.animate(t,r);return()=>i.cancel()},i)}export{r as t};

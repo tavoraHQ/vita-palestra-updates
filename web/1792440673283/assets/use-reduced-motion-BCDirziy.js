@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-9PqYltv3.js";import{_r as t}from"./icons-D_bUUsZ-.js";import{c as n,l as r,u as i}from"./vanilla-C7JVtNcP.js";var a=e(t(),1);function o(){!r.current&&n();let[e]=(0,a.useState)(i.current);return e}export{o as t};
