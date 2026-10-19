@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-CAh6PVKG.js","./dist-CViWBqmg.js","./preload-helper-DN0Lsyzt.js","./preload-helper-Bpmr02HK.css"])))=>i.map(i=>d[i]);
-import{t as e}from"./preload-helper-DN0Lsyzt.js";import{s as t}from"./dist-CViWBqmg.js";var n=t(`KeepAwake`,{web:()=>e(()=>import(`./web-CAh6PVKG.js`).then(e=>new e.KeepAwakeWeb),__vite__mapDeps([0,1,2,3]),import.meta.url)});export{n as KeepAwake};
