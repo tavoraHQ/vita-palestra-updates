@@ -1,17 +1,17 @@
 {
  "app": "vita-palestra",
  "v": 1,
- "publishedAt": "2026-10-19T17:27:00.625Z",
- "notes": "Scheda più leggera: le figure 3D sono ferme e si animano quando le tocchi (si espandono dentro l'esercizio). 26 esercizi di riscaldamento e stretching ora hanno la dimostrazione 3D.",
+ "publishedAt": "2026-10-19T17:34:48.562Z",
+ "notes": "Più fluida sul telefono: immagini 3D dieci volte più leggere (aggiornamenti e liste più veloci, meno memoria) e meno lavoro grafico nella scheda.",
  "web": {
-  "version": 1792430819865,
+  "version": 1792431287801,
   "label": "1.2.1",
-  "path": "web/1792430819865/",
+  "path": "web/1792431287801/",
   "files": [
    {
-    "path": "assets/actions-CrzxoYtb.js",
+    "path": "assets/actions-CfvS93fz.js",
     "size": 4960,
-    "sha256": "c9715a98eaace6144f112548a6bf3803f216f5c962831af163de6f91417742d7"
+    "sha256": "3e7619778ab1893d794cbb4c79cdc7ded3015f4874efb21a7e848045bf8b5cca"
    },
    {
     "path": "assets/android-BtsGMk4g.js",
@@ -19,14 +19,14 @@
     "sha256": "f482c787ef5e16488ac9d95c111ad7b826bb7e046e52d913ba1f4a7742cd043a"
    },
    {
-    "path": "assets/AnimThumb-DGjfhfyH.js",
-    "size": 570,
-    "sha256": "c7becd41e8ce4a9616a5ebf81bcaadf8f29aea15f8b0c3227640dd5fc2911381"
+    "path": "assets/AnimThumb-C4_9ZPKJ.js",
+    "size": 571,
+    "sha256": "a7f4b0971eeab0712e295dd9d6414e2280e56d81eda987047e2637fb82f3f0b8"
    },
    {
-    "path": "assets/BodyPage-D0m5TOX1.js",
+    "path": "assets/BodyPage-CBjoeZWo.js",
     "size": 98460,
-    "sha256": "9ec861d7b3714c37f41c8ccaeba305fc3bcbf5b2fa747fe668bac4f9e112b9f3"
+    "sha256": "cf312c0cee15aec963f5e8474e6757823d933520f0daaaa055193abfbbd8e98b"
    },
    {
     "path": "assets/bootState-B8Yos9Sm.js",
@@ -34,9 +34,9 @@
     "sha256": "6193375ba41d4fc95e8c68062f45a366ec6f85fe5c2c9832ba02a9167a5b9976"
    },
    {
-    "path": "assets/CalendarPage-AtxB5GFp.js",
+    "path": "assets/CalendarPage-oX5o8bV0.js",
     "size": 70064,
-    "sha256": "9db5e2247e6447832627ce4a6bd9beac52f38f6ac76af47f3dc5b7e1a5de0cec"
+    "sha256": "da1a0472bb67206e53e3875e8029d3ce60ab114559ed9a6fc6cc197436c62f4e"
    },
    {
     "path": "assets/channel-Bkx8cEMz.js",
@@ -44,9 +44,9 @@
     "sha256": "2eba7b1c62bc2e1315a356c3dd504d5ac12fa9963850f31e308fccc3eb58c088"
    },
    {
-    "path": "assets/DashboardPage-BTMtGymL.js",
+    "path": "assets/DashboardPage-DUyjTUkT.js",
     "size": 76759,
-    "sha256": "5a002338f8f73c712c8750a0b17a582b9f7f123c5d438ab61540092828f0dd86"
+    "sha256": "c7393e1f23e310fb17b8bd44aded5a13ac159046113e755552ddae47b8e1a870"
    },
    {
     "path": "assets/dates-DSwzuji7.js",
@@ -94,24 +94,24 @@
     "sha256": "82eb05a26c0659cd26da5d8d5e02dc6dd6e4a7f77636ed04dd50c0c0b2b3fc36"
    },
    {
-    "path": "assets/ExerciseDetailPage-DepFDL1r.js",
+    "path": "assets/ExerciseDetailPage-CUc3I8So.js",
     "size": 38640,
-    "sha256": "089707b7f9a3b4550d39b163e1edea902f4ee8df939a195bc775cec6733dadfb"
+    "sha256": "e77a85de44d6bdca954432830d3be03874db6a839b2898c945701b7ca7b3e341"
    },
    {
-    "path": "assets/ExerciseLibraryPage-BI7FsfTb.js",
+    "path": "assets/ExerciseLibraryPage-DTT1ycxJ.js",
     "size": 12596,
-    "sha256": "7adaf44574a18e74a137701e8999582be1404ad1b477993fbd36f40598c31af8"
+    "sha256": "14cdefcd0d3871fc9a32e84d2198a0be7dea3b284099cc6d5ff3b4de76943bbf"
    },
    {
-    "path": "assets/ExercisePicker-CkWFeUd9.js",
+    "path": "assets/ExercisePicker-Bj6yZsfZ.js",
     "size": 30539,
-    "sha256": "62497093377018180fe6815a34eeeddc3028e9e917c22e9b2938981210f874db"
+    "sha256": "b11e9bed0997c157c5c5b2e784fcc16d23ba187b32e7c0ba019111a4a3d4d3f2"
    },
    {
-    "path": "assets/exerciseResolver-CjuJehGN.js",
+    "path": "assets/exerciseResolver-Dd_0kUuT.js",
     "size": 265,
-    "sha256": "2f5d3133b81f4d9b9842be46907e3e759f84119c85899d565fb463c3838daf51"
+    "sha256": "bf2bf30997e39fcf056e1f6e7d02fc54d2ba2ce9d3beb1e85482a2ac915b2eb5"
    },
    {
     "path": "assets/exercises-dLgE1Z1D.js",
@@ -169,29 +169,29 @@
     "sha256": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2"
    },
    {
-    "path": "assets/labels-CD_pAktA.js",
+    "path": "assets/labels-7hNgcMdG.js",
     "size": 1948,
-    "sha256": "be615f20b0a0425fbe1d753e35bef275d185a188c76e520d049b743022b46e0f"
+    "sha256": "ca76931427b993634ce7846653b6aeb46b20ad2bc7b219a76aec3571b48d2e08"
    },
    {
-    "path": "assets/main-CipBGRH1.js",
+    "path": "assets/main-BbifGbOe.js",
     "size": 136863,
-    "sha256": "fc92327cfed0fc48923c58b877239c02c0193f05c5191ab73381c400b73ff0e6"
+    "sha256": "b7fcd17e6221d012b9b51324639aa41b8e3eaaaa6905d41950ff0f5e6a68f181"
    },
    {
-    "path": "assets/mobility-D_Fb_MMP.js",
+    "path": "assets/mobility-CWk1td-_.js",
     "size": 35998,
-    "sha256": "2105ab1598934eb271c1226ba63fa4ba162e0d128e7b987af6aa70ad5b63c549"
+    "sha256": "125e20d3c914dc1e8fe4c1c02fe4c58ac02fe1c9f2eb048c899b655572f0e83c"
    },
    {
-    "path": "assets/MobilityPage-JJtdet2W.js",
+    "path": "assets/MobilityPage-ByHaeGN2.js",
     "size": 44139,
-    "sha256": "681b7c2f533678997f4e09059553f6ce18f319ed7c5a1850bdb14b80a22f619f"
+    "sha256": "0cb57397c839a759d3657d95880499aa8967bd807dcadd18197dfcfd64f3a6ed"
    },
    {
-    "path": "assets/MuscleMap-C06NWujg.js",
+    "path": "assets/MuscleMap-DpbEkwFn.js",
     "size": 13109,
-    "sha256": "48d06c9963ccf7761b61f01b9e963c3ebc6f6fbe77b6a32b44641b58fe07d7c8"
+    "sha256": "fc41575a78b1f56bad0187e318f1d489edd07375c7427b33a3a46adecae98184"
    },
    {
     "path": "assets/muscleMapPaths-DhTjzfNI.js",
@@ -209,29 +209,24 @@
     "sha256": "3a16fec10483d1452f52f5d686ae11124f88e1172296738e573e7f3c60b0bf6e"
    },
    {
-    "path": "assets/NutritionPage-Bv1BIB2I.js",
+    "path": "assets/NutritionPage-BP251A0v.js",
     "size": 147484,
-    "sha256": "8e25ff82252f9913ca6992e829cad6fa28e8b2eaf06a816768bc86c9a1f5a319"
+    "sha256": "84d7c8b83a6b2696edc7bda2ecac8ea5302bb0c25edf716f9dc9f4b3152359b4"
    },
    {
-    "path": "assets/OnboardingPage-VlKtoerl.js",
+    "path": "assets/OnboardingPage-CfxeQeMx.js",
     "size": 51157,
-    "sha256": "eb77c9c7883333766c859b22985c72000f0daa3e4e718fd097036b85261c4982"
+    "sha256": "f81e3415cc6c9c50ad0ae4e2629068edc2f64c2c5e76c4e06df0fd284d6060ed"
    },
    {
-    "path": "assets/PhotosPage-BTUrVW8A.js",
+    "path": "assets/PhotosPage-CDjA51E-.js",
     "size": 66463,
-    "sha256": "f8b0f3b0ff7c71c6b5c29b49f7db085094f4d430e3475b0e9468e5f7954c2eac"
+    "sha256": "3a20f94a4d073c049254ee0e2cdb6c43db80faf684c8f01bb0e70021b6dd4c55"
    },
    {
-    "path": "assets/planActions-B5WahMiq.js",
+    "path": "assets/planActions-D2ywub4l.js",
     "size": 1329,
-    "sha256": "10803744394518e5861c2024db391e73f7b7c045a087fa5b08ca7183f9be5c59"
-   },
-   {
-    "path": "assets/PlanEditorPage-D_q7NYBT.js",
-    "size": 43869,
-    "sha256": "f39b970612ec4baa36c4fde0c0b42343044557c8dc7c75318ff521286f8f8e5b"
+    "sha256": "c012b29cc9ac66781eada41335b1140b11f07d6ad4b37ab721ce6a874a75689b"
    },
    {
     "path": "assets/PlanEditorPage-Sj_IVxaV.css",
@@ -239,9 +234,14 @@
     "sha256": "4b554f5e40c1283d2a99c9a7d051d8f87b411171e903c18e2fc53e13a2bfb4f8"
    },
    {
-    "path": "assets/PlansPage-BR9CW3pD.js",
+    "path": "assets/PlanEditorPage-Z0MfNEml.js",
+    "size": 43869,
+    "sha256": "bd023163511211200ba5fded8e49d82576a633de018763b3e071664012c1b903"
+   },
+   {
+    "path": "assets/PlansPage-DPxceggz.js",
     "size": 15327,
-    "sha256": "2d30820f653a653b2c2004be98efd9cbaf92725c227e56ad0beb162e3bb7cb15"
+    "sha256": "75252ea25934fcdeb21fec9293cbf3f59c9e06ed9adb005c1c00bacbc734ddcd"
    },
    {
     "path": "assets/preload-helper-BXSc7f47.js",
@@ -254,9 +254,9 @@
     "sha256": "cffa12dc2a8ec12692106cc1579f75242a693fd8acec90a7ec97acd334c60c88"
    },
    {
-    "path": "assets/ProgressPage-7S8TpNx8.js",
+    "path": "assets/ProgressPage-CR8e1zAZ.js",
     "size": 79454,
-    "sha256": "cf1655acb9c0087d7aa450d36bd89edabd7dae89e791fd18a024be55656e89bc"
+    "sha256": "8973909e47c75fb00b436e9f7683fd1c648aaf60a757267dbf9160c3886604a9"
    },
    {
     "path": "assets/props-VFjUeQc-.js",
@@ -269,24 +269,24 @@
     "sha256": "f2fd63d9e518fb4f9e9cbf88046d55df58d03af698eb43b9d7ca5cf0de8dfeb1"
    },
    {
-    "path": "assets/ReadinessSheet-D4-8jCa_.js",
+    "path": "assets/ReadinessSheet-CqZQ4iif.js",
     "size": 21497,
-    "sha256": "38261c81d4f8f9568d7e35f1828b30ddde0d412671f2b324286401d70fe7e0aa"
+    "sha256": "f484b0e1bb8b1640af94ca1408053126374a674fc058cf289ebce4d9e0547b93"
    },
    {
-    "path": "assets/recovery-BMGkYChm.js",
+    "path": "assets/recovery-C6TPYZPk.js",
     "size": 30751,
-    "sha256": "81b1d050e588bbfe17044625d663ff699d7b4c36156e4c0c466048aae2fb26c2"
+    "sha256": "8df46583deb5f3d7f588ef6804006e80c84eee7f8575670ca579be36c39f611c"
    },
    {
-    "path": "assets/recoveryApply-D-PliM8b.js",
+    "path": "assets/recoveryApply-BZISlexz.js",
     "size": 1464,
-    "sha256": "f7dbc2215d22469899d828b1c8168830d08665164c0c29f11a21a51c2f3d9cd3"
+    "sha256": "38a17dcf10bb6dc8a843c8cb9f21a1d64f13c7cf49d15c17fee7a08eb71bf54c"
    },
    {
-    "path": "assets/RecoveryScreen-BMlfvZbY.js",
+    "path": "assets/RecoveryScreen-Cd965-bp.js",
     "size": 6587,
-    "sha256": "dece19ae32e53821722f97910eb3ee01ef894ff81f872c544e45dd730ff5c5ba"
+    "sha256": "82366aa36a547c4041d08c88fefd3008215d77f13635285a4857efccb0ee0572"
    },
    {
     "path": "assets/render-CzvY8Zjz.js",
@@ -299,9 +299,9 @@
     "sha256": "db5e0374cdb8e8e02975e6bdd38d9436eb3545adb04ae0a9a0412845190fcd1d"
    },
    {
-    "path": "assets/RestAdviceChip-C_in2vGT.js",
+    "path": "assets/RestAdviceChip-BmwzFboY.js",
     "size": 2066,
-    "sha256": "b015fe98f3e82aba4a495dc06a0a68413ba30cf36c2c4aae6f739c35ff317af0"
+    "sha256": "01d760b71f1388761003d02a7f2de4c7ab4efcc5374b166ed85f360c85d98c6d"
    },
    {
     "path": "assets/search-UxZjwO3r.js",
@@ -309,19 +309,19 @@
     "sha256": "6390b94139e20ac12e521c346cd0bb79e276818cd20cdbcc19b2eaa045b7338b"
    },
    {
-    "path": "assets/sessionActions-Ccqq_U1N.js",
+    "path": "assets/sessionActions-OEbZ4J5P.js",
     "size": 46991,
-    "sha256": "0d158e9c795b1a7b2283123d894fdeb24a0eb99b3b2408406a97db5945ee5da5"
+    "sha256": "7d9554da2a0e8e1d95de1b4e917622ccef383dd95f908deb9534451f84e4c6e5"
    },
    {
-    "path": "assets/SessionPage-BRwq5npt.js",
-    "size": 60877,
-    "sha256": "53a00f51ea6929e51786ac444575e9f17c09b62d4f2acefdee290df23b8644dc"
+    "path": "assets/SessionPage-Dkxvcygw.js",
+    "size": 60859,
+    "sha256": "871d5cfe04864148ec6be7ba337058653a61c0c5e671ebc4ec1aa99be96190f7"
    },
    {
-    "path": "assets/SettingsPage-B3C6FP1P.js",
+    "path": "assets/SettingsPage-BbQjDKGW.js",
     "size": 67393,
-    "sha256": "8f6c609b7c2b3d4b59e99c9c8944c1eecbef906e45068b809dad5853ba42b60f"
+    "sha256": "7dfc5f638c0aec0d288d29a22380a73aa006c992ce247102c517b81b1aa32641"
    },
    {
     "path": "assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
@@ -339,9 +339,9 @@
     "sha256": "8895e3d49825128bfa5238e4c96e9b432d7a3dadbe5c17c6081267398305dc71"
    },
    {
-    "path": "assets/store-Dj_Be48u.js",
+    "path": "assets/store-DVC4mEw2.js",
     "size": 16881,
-    "sha256": "8e277ccd7b5a0cc77180baafbe4cd134ac84527652a620d71ebd20e7decbdae1"
+    "sha256": "d4e99fe77c4dd67c8cb582924324db53a1ba9b475da444398647a31148f00716"
    },
    {
     "path": "assets/strength-DuaEnM0e.js",
@@ -354,14 +354,14 @@
     "sha256": "844415c6b75b2ed3e858c11447055af4f3a1ad8677de972ab49fdb86408eac35"
    },
    {
-    "path": "assets/SyncPage-D5JLGs0y.js",
+    "path": "assets/SyncPage-DTlWhlLV.js",
     "size": 200726,
-    "sha256": "eb4bca1bad3a972592859e1560260fdeae5a8a0abf28b8a3e49ead436409ad5b"
+    "sha256": "93f83432f5604af133b19dc900cf078008e406e8dc1d82e3065fb937fe4c2ae8"
    },
    {
-    "path": "assets/templates-xBmqghYn.js",
+    "path": "assets/templates-D_9spkRI.js",
     "size": 26055,
-    "sha256": "91b9fb919ba716570ae9d5f877394507f679d269b8beccf46ae7428f915b12e4"
+    "sha256": "06d14d9f6850178bf6cd63ff372031b117b3e192d9e1f51ceda365ecbcf66e5b"
    },
    {
     "path": "assets/trend-BrZ90DrF.js",
@@ -369,9 +369,9 @@
     "sha256": "c55d533c24c6310b24fbeddbde61d287e0c3ee534b87f73a68ff7aff3b269850"
    },
    {
-    "path": "assets/update-59EpVJvy.js",
+    "path": "assets/update-Bx7okC83.js",
     "size": 3660,
-    "sha256": "6ee8a286d0d87772e87102ca9b7881ef61a3fd489f6d75f2a6fe4e4e2cecc978"
+    "sha256": "15ad453902a83ca0ed4411bdfff67f7e027b7d58b521994ca4cae56409f6fb55"
    },
    {
     "path": "assets/use-reduced-motion-C_scskIQ.js",
@@ -379,9 +379,9 @@
     "sha256": "0247802554d43cc391348313bca70ab3fa340baf720e8817ff941e6dd99192a8"
    },
    {
-    "path": "assets/useReadinessGate-C3XTZaWG.js",
+    "path": "assets/useReadinessGate-CMD0ojM1.js",
     "size": 1444,
-    "sha256": "ec9032f05b796ecf3a183ecfa9ff35ab11e3920a8cf97bca00e916ef3e0b2113"
+    "sha256": "b459ea3f69151ed7bf5a8f99149eb3a636b3092db97ccd3fedf8e3981baa9f4d"
    },
    {
     "path": "assets/useWaapi-B4g7cHF5.js",
@@ -434,9 +434,9 @@
     "sha256": "c9c73b35336a42ca35d5ef6ae399be7c70d8774f732ae7c89c230af5c54edd55"
    },
    {
-    "path": "assets/WorkoutHubPage-BkiqvJhV.js",
+    "path": "assets/WorkoutHubPage-Dip92vJA.js",
     "size": 22165,
-    "sha256": "7019deb9f36d43fcff5cf7b01b3668eb17764b16a28881818f4dfbc3ba2fb18d"
+    "sha256": "d796785dd8f3c8a2179ca0d459f6c40bc761abead627d76f156b41c881553d69"
    },
    {
     "path": "assets/__fixtures__-CPVJ2Ya8.js",
@@ -451,7 +451,7 @@
    {
     "path": "index.html",
     "size": 1400,
-    "sha256": "c71cdb3f80c93602b5a81528720bf5610e39c1447d9f106003460f41d64c875c"
+    "sha256": "ee7c9c78be23ef4122c4904ec789aea6718cc07e27a7e55b23b7066c65619643"
    },
    {
     "path": "render.html",
@@ -459,639 +459,639 @@
     "sha256": "d7432ca22a67cd8dfaa203289f56e3a3eaee380713fb26b2e770c826ba1597d1"
    },
    {
-    "path": "thumbs/ankle-knee-to-wall.png",
-    "size": 62103,
-    "sha256": "b2c04bfbb6cf6be831cced5fbf14df0fc11aace5317cb5ab2ae173ce94792d2b"
+    "path": "thumbs/ankle-knee-to-wall.webp",
+    "size": 8252,
+    "sha256": "1d41cd7fddb62ab4df9f4463209e5726f758c19d0f625c6e1c9c673fb0a51ccc"
    },
    {
-    "path": "thumbs/arm-circles.png",
-    "size": 76809,
-    "sha256": "e2fceb9816e878ba1eb9b8ea8168041410abb3f8e0318723e9e2f160fac33f93"
+    "path": "thumbs/arm-circles.webp",
+    "size": 8070,
+    "sha256": "7463cb9de357f575c8a399951f31e002abd4797c6c7890a15a55a640599c5187"
    },
    {
-    "path": "thumbs/assisted-dip.png",
-    "size": 117400,
-    "sha256": "3cc6e01d66ed2286f3382b4a6a1709efb64f7d3d5d888bf5a58f654558e8a471"
+    "path": "thumbs/assisted-dip.webp",
+    "size": 12744,
+    "sha256": "52c0f28b55292833ee395ece3d37e375297a5cd63fa6e45ac9fc687e060264b0"
    },
    {
-    "path": "thumbs/assisted-pull-up.png",
-    "size": 118333,
-    "sha256": "ad13be2bfbb4a758013e43d29b1964cd2f2311f39137cf227faa67982e36b390"
+    "path": "thumbs/assisted-pull-up.webp",
+    "size": 12616,
+    "sha256": "3e13fd8c83553c79341e57585b3d9bba510c7b05ea09911bc735ea41e68ece38"
    },
    {
-    "path": "thumbs/back-extension.png",
-    "size": 127008,
-    "sha256": "390452bc335b1042fc40f4c467aa1be9020dbb32885abddbdb7b2b42c20ec1d2"
+    "path": "thumbs/back-extension.webp",
+    "size": 10608,
+    "sha256": "c11717600a316d3f898b58126268b6d81d0b208e71ab4de82d41f1bbdec5b74e"
    },
    {
-    "path": "thumbs/back-squat.png",
-    "size": 143054,
-    "sha256": "03af2065d3ebdd39697a94defef14aad923dbd7ef43680bb7be17c14bbe95c69"
+    "path": "thumbs/back-squat.webp",
+    "size": 13422,
+    "sha256": "d723386c5751f850629f91a81f78f1caf15bfa7cfac6b6a93954271d58101dc1"
    },
    {
-    "path": "thumbs/band-dislocates.png",
-    "size": 74257,
-    "sha256": "43bd7cf85f18388ccc4ed9e5e3f494c32b6cca0290e467a1136eb4659bb7430f"
+    "path": "thumbs/band-dislocates.webp",
+    "size": 8396,
+    "sha256": "f5c53384aec66b67b814592c9c229a870382490504d043731ea5cd92f6e9dc07"
    },
    {
-    "path": "thumbs/band-external-rotation.png",
-    "size": 115522,
-    "sha256": "141bc6a773871630e8831d0cfa8fc22f7b3694509e65315ccada956446f1cd5b"
+    "path": "thumbs/band-external-rotation.webp",
+    "size": 13704,
+    "sha256": "61dbb1d4333705df8a1bde0345cdc94c3056d84222f47ba0d510606f63c9bc55"
    },
    {
-    "path": "thumbs/band-pull-apart.png",
-    "size": 78799,
-    "sha256": "8c7711839854222fff02fc143e974c7dd0015ef84f2b4e63a960ea27b7e49c43"
+    "path": "thumbs/band-pull-apart.webp",
+    "size": 8344,
+    "sha256": "8b89f1dad25bc9c3f3f946e2f04a2ca1b9605de5e245429cbaa9e17a90afe7f0"
    },
    {
-    "path": "thumbs/barbell-curl.png",
-    "size": 90676,
-    "sha256": "f2650057b8038739a547d3f11f06007f697b0eaad0776cdd98e70e86a3a14cc6"
+    "path": "thumbs/barbell-curl.webp",
+    "size": 9428,
+    "sha256": "f6a32c9affec04e2f8b6b5f9fffbc46840644e3a403a88bb956ea2048bd0e9ca"
    },
    {
-    "path": "thumbs/barbell-row.png",
-    "size": 129627,
-    "sha256": "b8fcc41f1ac9c2ea2c9036093f6f9b4089a2526f1a3746c2a57499d0ca787572"
+    "path": "thumbs/barbell-row.webp",
+    "size": 12496,
+    "sha256": "44d0df69a636336743ca9d0ffc7cf18cf7ad5130ad6093fbc247eb71caa6e469"
    },
    {
-    "path": "thumbs/bench-press.png",
-    "size": 147141,
-    "sha256": "b7a3ec00872258d229c89a664a2371c7d81d1b5892090e64169f3fbff48d87c0"
+    "path": "thumbs/bench-press.webp",
+    "size": 13256,
+    "sha256": "f4684e2226d935a45f174d61a0a77512f14eb8a90d0b746d5c46e7b6f7d67e1e"
    },
    {
-    "path": "thumbs/bird-dog.png",
-    "size": 98919,
-    "sha256": "89e93b72d3f305ca3029b0745ca71e1661dbd14a6376f5d70b6efafd37325786"
+    "path": "thumbs/bird-dog.webp",
+    "size": 9172,
+    "sha256": "7276f6ef459298336ed47c3f8d22875b7a2894af76e5087fde8ffd78333c7453"
    },
    {
-    "path": "thumbs/bodyweight-squat.png",
-    "size": 112022,
-    "sha256": "c20c49161b92daca872827a9aefd25796fe3dbcabee424a350fdfcf3c3239040"
+    "path": "thumbs/bodyweight-squat.webp",
+    "size": 9526,
+    "sha256": "2837c867ba7f411580d154fa256fe44142227151554b5abe099c3cdfbad4d12d"
    },
    {
-    "path": "thumbs/box-jump.png",
-    "size": 71909,
-    "sha256": "55a696386e812ce4315d25f3733e5c36a7ad0f97ec9a1efd7e1d62cb6a4b052e"
+    "path": "thumbs/box-jump.webp",
+    "size": 8094,
+    "sha256": "8c28c6030c1242c10b47cebddd0164883a5f932c1d1cf41abdff5349ad95f167"
    },
    {
-    "path": "thumbs/bulgarian-split-squat.png",
-    "size": 128642,
-    "sha256": "0a5697753f2a6587135cb6d873855494a96037329587082896859d2dfce8c18f"
+    "path": "thumbs/bulgarian-split-squat.webp",
+    "size": 12316,
+    "sha256": "fe346e8b4e2e98e4642e8c698e80cdacc17a5d3e104aae6321f383b0acf8ef47"
    },
    {
-    "path": "thumbs/butterfly-adductor-stretch.png",
-    "size": 110132,
-    "sha256": "490b29c8f296c1a533d5acf142bcf75516472009d617db3ec9b2fa92ea501da1"
+    "path": "thumbs/butterfly-adductor-stretch.webp",
+    "size": 8330,
+    "sha256": "ab70d096705a6326cca364e738011ae3f515dc14117b4f037eb525201af6a3cc"
    },
    {
-    "path": "thumbs/cable-crossover.png",
-    "size": 111380,
-    "sha256": "b9624d64ec86ca5fa8dc39aabf9038313c1b0f6513c9625ff17a230999f96ae9"
+    "path": "thumbs/cable-crossover.webp",
+    "size": 14282,
+    "sha256": "60ee3a229f51f3fadaa4e37bf00495e6e2c59612ad4f15eb907f5e5b09defa0b"
    },
    {
-    "path": "thumbs/cable-crunch.png",
-    "size": 158553,
-    "sha256": "3c87ac47032691a2b0493fc81096f104ff6ee3f09a88faed748a2cfbfaa22865"
+    "path": "thumbs/cable-crunch.webp",
+    "size": 13340,
+    "sha256": "08d9a743a35c616974459506b7a00b53b1361927fcffbd4df7ffcaae93135f5d"
    },
    {
-    "path": "thumbs/cable-curl.png",
-    "size": 115162,
-    "sha256": "1adb8835acc5a00c0c556ebebd15ac84e6f7ea7db90da13e486543b1521b77f6"
+    "path": "thumbs/cable-curl.webp",
+    "size": 13298,
+    "sha256": "bcc633cc219e41cab75d3ff2e38c72d1e386834cc6f9c2de5e1a1e753b20b58f"
    },
    {
-    "path": "thumbs/cable-lateral-raise.png",
-    "size": 117003,
-    "sha256": "622a583366e24bd9bf1a634b93d4f8b711e6d4a5bcf37e254cb1c69ee0725198"
+    "path": "thumbs/cable-lateral-raise.webp",
+    "size": 14608,
+    "sha256": "8b56c5953ef0d005564dba9d46290dea3e6787f2896d20c352ea5067346ed50a"
    },
    {
-    "path": "thumbs/captains-chair-leg-raise.png",
-    "size": 110001,
-    "sha256": "6bc561c3fbf25c3a24aaca094f186222a2c2af1f4e1b335286b7d52c19465b80"
+    "path": "thumbs/captains-chair-leg-raise.webp",
+    "size": 10830,
+    "sha256": "3403c11c30aa9898113dfd06df3e4f0c8ea5b29f5ecf628b41e1bb3c080799c2"
    },
    {
-    "path": "thumbs/cat-cow.png",
-    "size": 97965,
-    "sha256": "400ffffcc39b4261292441e576c2b19002500357a546b6a8b0effc306cb1b1db"
+    "path": "thumbs/cat-cow.webp",
+    "size": 7652,
+    "sha256": "1536c107e554fb7b0c670d7e4295abc726998c05782c70da08526607a7d150b2"
    },
    {
-    "path": "thumbs/child-pose-lat-stretch.png",
-    "size": 95531,
-    "sha256": "8edb97a8dfba5d7c724acbee35534ab2de1339afac10c5ddb9619ee2e863b88a"
+    "path": "thumbs/child-pose-lat-stretch.webp",
+    "size": 7224,
+    "sha256": "d01c2e241ae5faac320c25cbcee2e67e4aa30d32dba0a73de80679e74bb56d4a"
    },
    {
-    "path": "thumbs/chin-up.png",
-    "size": 98206,
-    "sha256": "d05a54d5404b767eff4224843553f6fa4801418df82ff78d3ef30284b60ca402"
+    "path": "thumbs/chin-up.webp",
+    "size": 12638,
+    "sha256": "9f4181835f12ee7c3309a249a2e3cc5cc3edb76afffb58e697c492071a5fda12"
    },
    {
-    "path": "thumbs/close-grip-bench-press.png",
-    "size": 156718,
-    "sha256": "291ddfe4acaa803dc2843c65699c4751ae15590a5303b67a755d1ed9c86cb9cf"
+    "path": "thumbs/close-grip-bench-press.webp",
+    "size": 15760,
+    "sha256": "d2b10e99087bfbd44f086bd5b68401cd11d13b6395d8d7e9086ddb9c8a78c2d6"
    },
    {
-    "path": "thumbs/close-grip-lat-pulldown.png",
-    "size": 128456,
-    "sha256": "686f232dea66a5268fffe9d101e960549e2018b30837256910050e68d93ea2f9"
+    "path": "thumbs/close-grip-lat-pulldown.webp",
+    "size": 14236,
+    "sha256": "ea2a062700fc62496c8be82f1970545e3244be94030e7f53652769707903e480"
    },
    {
-    "path": "thumbs/cobra-stretch.png",
-    "size": 85442,
-    "sha256": "fa22df7218552fd1ba9f609fe28dacb9db315b0dd53ecb9878232a782e9c4c63"
+    "path": "thumbs/cobra-stretch.webp",
+    "size": 6194,
+    "sha256": "8d8e352d6ba93788ac4c59b202ec37ee2142827ff7b26dd1495cd9ad523de09c"
    },
    {
-    "path": "thumbs/cross-body-shoulder-stretch.png",
-    "size": 67815,
-    "sha256": "d29699c1dfdef2ad27810f27150dbf3729f5867f0ee733a4d31c879327fdcca8"
+    "path": "thumbs/cross-body-shoulder-stretch.webp",
+    "size": 6200,
+    "sha256": "c8aa94d5825463c680170bec74beb2e51dd6203f3341520468a7773f3c288a31"
    },
    {
-    "path": "thumbs/crunch.png",
-    "size": 99359,
-    "sha256": "1e7f95cf6ce2acb140a28ed74e87ab66bf6e18bb023f95d8a3cd42db1ffacafa"
+    "path": "thumbs/crunch.webp",
+    "size": 7988,
+    "sha256": "6295f5df2387b18b1b5bf30bceb6fc67120000a36bbed7c2b8c86dae3c9117ee"
    },
    {
-    "path": "thumbs/dead-bug.png",
-    "size": 83256,
-    "sha256": "6d9a6fb972f90598b516beca765fda3efc0d9dc1d0930b50ab11a2be00251c95"
+    "path": "thumbs/dead-bug.webp",
+    "size": 7316,
+    "sha256": "d6ed013bdb02fee79c6c967f1a54cb1ca860d783a5164b8975619ca45b101c48"
    },
    {
-    "path": "thumbs/deadlift.png",
-    "size": 152235,
-    "sha256": "18c42d79038f6936329b7ef8a0aea369a51ae5bf6522f551073e39aa2fdcd07c"
+    "path": "thumbs/deadlift.webp",
+    "size": 14528,
+    "sha256": "7f2b8746d29138f06a72f680cd3f27ac23ac546ad66eadc01e7f2ceedc798f93"
    },
    {
-    "path": "thumbs/decline-crunch.png",
-    "size": 119947,
-    "sha256": "973053ecc201ee94af66c2806a8dac93895e86a59af9f9786cb6c5426ef0a8d5"
+    "path": "thumbs/decline-crunch.webp",
+    "size": 11440,
+    "sha256": "708949d6bb49f8b6ad9c61e489f7ff0bc74a3c58345efd9a8a546eb4879cb852"
    },
    {
-    "path": "thumbs/dips.png",
-    "size": 92784,
-    "sha256": "b5436bbc6e9c38d0aa7d2f125392c18911df1741ba7e3a0198b47d7b03a0e2e9"
+    "path": "thumbs/dips.webp",
+    "size": 11016,
+    "sha256": "09cb022147967be0f0b293bfb2feb470ce0a723f3218b60f39d3a75fbbb0b772"
    },
    {
-    "path": "thumbs/doorway-pec-stretch.png",
-    "size": 60578,
-    "sha256": "6d733a8d596578d34dc3b45ce155d1a8d926d00dda97e1795430416fdd04cfdb"
+    "path": "thumbs/doorway-pec-stretch.webp",
+    "size": 8350,
+    "sha256": "f63bcfed9b5181c87888bcdf7e11dd929c8e154e3a5a55c803f4bec1fa447ace"
    },
    {
-    "path": "thumbs/dumbbell-bench-press.png",
-    "size": 127802,
-    "sha256": "bbfccddfafd53e599649d49702117f5fd76d9cc7600a8eb53c177568ad6f6a9c"
+    "path": "thumbs/dumbbell-bench-press.webp",
+    "size": 11044,
+    "sha256": "72384215e2f8bee500a46703ca23bcb7900b4cfe5f106e211e99bbb9181470a3"
    },
    {
-    "path": "thumbs/dumbbell-curl.png",
-    "size": 72312,
-    "sha256": "6904d219d7bfd2cfcd840aa17dfbe900f4c6482fd469e5551e7982a14540abee"
+    "path": "thumbs/dumbbell-curl.webp",
+    "size": 7316,
+    "sha256": "f656839a22e54caf8665124db6cc0621d74bc71350f100fc37ff40bb73de3d7f"
    },
    {
-    "path": "thumbs/dumbbell-fly.png",
-    "size": 118504,
-    "sha256": "cf2097a11dbc1cd0e385665c213da3f4626d535a4e5710f7f8c36bd5b4d96108"
+    "path": "thumbs/dumbbell-fly.webp",
+    "size": 10362,
+    "sha256": "e2488227a617c78b548570798f020728e73c5a353bf220805e19416391836d7a"
    },
    {
-    "path": "thumbs/dumbbell-lunge.png",
-    "size": 88377,
-    "sha256": "53a4efcc84c974bfe69e53e2a0f2a00288dd25c6292b64d725d849adb75bcd9a"
+    "path": "thumbs/dumbbell-lunge.webp",
+    "size": 7832,
+    "sha256": "fd61680711e756d8d32975891b7a2e6733b58df9c7a7836df75005925d33d1b2"
    },
    {
-    "path": "thumbs/dumbbell-romanian-deadlift.png",
-    "size": 127527,
-    "sha256": "5649b246f4c073c887591a0d1ed0e28e37af161d571867a5e3d8f73a36704925"
+    "path": "thumbs/dumbbell-romanian-deadlift.webp",
+    "size": 10892,
+    "sha256": "d67dac078fe97f0de0be4b555d37b9ec704eb7a6971701ab375aad715a87a333"
    },
    {
-    "path": "thumbs/dumbbell-row.png",
-    "size": 135352,
-    "sha256": "6afeb91a2e243e01b712dfb13f75b0858f4b3d75dc4a6f06549a8623363c0894"
+    "path": "thumbs/dumbbell-row.webp",
+    "size": 11264,
+    "sha256": "73a489d75be764adab2da8d4b1fffb90ba70b7b38a5a4086a1cabbdc3a0b4c3e"
    },
    {
-    "path": "thumbs/dumbbell-shoulder-press.png",
-    "size": 117007,
-    "sha256": "9312a66756d37b5ff1d7942b58134f1d3b151188a3bd79861cb4b93eba2efa49"
+    "path": "thumbs/dumbbell-shoulder-press.webp",
+    "size": 10774,
+    "sha256": "6accf6ffb75787e1ce8a62688fdd6cabceaae635b476aea060b76bd8b9728a70"
    },
    {
-    "path": "thumbs/dumbbell-shrug.png",
-    "size": 73668,
-    "sha256": "da4f7a2d18babf10a74c84cfc9fc384bcea5b0b06d74288b3c1daf839696a9ae"
+    "path": "thumbs/dumbbell-shrug.webp",
+    "size": 7060,
+    "sha256": "6cff1c3197f14e397b43f8c7756bc286ed1cbad6b0bec135f6fa78e7aaca092a"
    },
    {
-    "path": "thumbs/face-pull.png",
-    "size": 94645,
-    "sha256": "3d617abadfdd298a5776f9905360b94d5d7744b9fe3f4026ed49019544c8a10f"
+    "path": "thumbs/face-pull.webp",
+    "size": 11202,
+    "sha256": "b6e6d5909beebf089fd60b9e878a59fbf7aae5e9d1e59da89ff53d526938ca2a"
    },
    {
-    "path": "thumbs/figure-four-glute-stretch.png",
-    "size": 83763,
-    "sha256": "d9e0f413eff7ca53265732078f285b2b43ce40ed42efc0eaae2424b301d8de2b"
+    "path": "thumbs/figure-four-glute-stretch.webp",
+    "size": 7314,
+    "sha256": "be55bfb5a6fff49a787fe26f5f70ff1bf50b8b8300f43f43f530ebf7971f3084"
    },
    {
-    "path": "thumbs/front-raise.png",
-    "size": 78383,
-    "sha256": "70ae72328c06444e6d31a613d60648a4a2d60117d44e007ccb7e460e67b236d0"
+    "path": "thumbs/front-raise.webp",
+    "size": 7852,
+    "sha256": "ab9cc160b60da9aad8c2c12247d29ef91bde709ccbc95daed392f096cb46fee8"
    },
    {
-    "path": "thumbs/glute-bridge.png",
-    "size": 93932,
-    "sha256": "7d664dd45c8c216c69e9be3bde710c4da1059c99452d1cab9ed84c5f05d5faf8"
+    "path": "thumbs/glute-bridge.webp",
+    "size": 7576,
+    "sha256": "2b7a181d4cf57c0bf92bc601664b3a2731883a5fdd20d4e4b8ffbf572dc03733"
    },
    {
-    "path": "thumbs/glute-kickback-machine.png",
-    "size": 108665,
-    "sha256": "2b260220fb83937fe39ddd0c3fb2d35f38488acb847adaae3beeb8b6890da676"
+    "path": "thumbs/glute-kickback-machine.webp",
+    "size": 11352,
+    "sha256": "fdc35adc8d788d20cfcb600dcf01670fdc6e6721e8995fe2c8cbfb05a15efa5d"
    },
    {
-    "path": "thumbs/goblet-squat.png",
-    "size": 102117,
-    "sha256": "e74c062786ee0395f944c720d094c1533f9618f5401622d1040211c7bb1a80ac"
+    "path": "thumbs/goblet-squat.webp",
+    "size": 8626,
+    "sha256": "95c37f5a4b25554070ff238606fc6abc0c64d67a8c08ee16ac0b360fa1e8420d"
    },
    {
-    "path": "thumbs/hack-squat.png",
-    "size": 155588,
-    "sha256": "6c9492ab33f8cc90c6b1ac05533d50d5c8351cbc9126173c5a922fd9e57d5a2f"
+    "path": "thumbs/hack-squat.webp",
+    "size": 15044,
+    "sha256": "7e16e7ffb354cc0c8948cc02b6bcfa7e516046c6576dac72ebd80a7a7717adc5"
    },
    {
-    "path": "thumbs/half-kneeling-hip-flexor-stretch.png",
-    "size": 68178,
-    "sha256": "89e354197730be6a34fa0fa01d7ad65b22eda0daf1b3fa9cb7c5b27db81af8df"
+    "path": "thumbs/half-kneeling-hip-flexor-stretch.webp",
+    "size": 7180,
+    "sha256": "b3d7d1a77bd1de271f23c1374bcae58bbce0c8485f5e2c024e71a484a0577e6d"
    },
    {
-    "path": "thumbs/hammer-curl.png",
-    "size": 74244,
-    "sha256": "14092b1bb6be800767fc4f0dec61b75211bbeacb38d37df28959ddc848a3be45"
+    "path": "thumbs/hammer-curl.webp",
+    "size": 7340,
+    "sha256": "3ea3b21cbdede1c1b6fc7c6c1832d3806daac72b5f99fa386764c8336eb8db55"
    },
    {
-    "path": "thumbs/hanging-knee-raise.png",
-    "size": 90693,
-    "sha256": "35d6242f9f27afd9b9c1ed3b709684aa1ac4b31258e261d45ace411411dc5b11"
+    "path": "thumbs/hanging-knee-raise.webp",
+    "size": 12486,
+    "sha256": "29fba045548b0d57f78234d6d39ae9c3eed649ecca3f02b7ca914169c8d0152c"
    },
    {
-    "path": "thumbs/hip-90-90.png",
-    "size": 69175,
-    "sha256": "97564b20fa9c9193ec723daf7294b00911d595d42dce1bfdf2fb37df918440ac"
+    "path": "thumbs/hip-90-90.webp",
+    "size": 6524,
+    "sha256": "1c27fd705ee4e7efb4ae5e944862a7d6c3d7c249b18596dfecb6fe532e314ffc"
    },
    {
-    "path": "thumbs/hip-abduction-machine.png",
-    "size": 145164,
-    "sha256": "0fa4d462d08624774206a95b6c12e9b5601117783a37305a79dd678628d0ff7c"
+    "path": "thumbs/hip-abduction-machine.webp",
+    "size": 13768,
+    "sha256": "bd1279fe3b53184b4e3847d3815a32b183498ec258a3d603d5d665c2901ed533"
    },
    {
-    "path": "thumbs/hip-adduction-machine.png",
-    "size": 142309,
-    "sha256": "bdd84ffd4d278e484e646092c45f9dc933c2b8a5acb110c2d3b3b8e337bc4f46"
+    "path": "thumbs/hip-adduction-machine.webp",
+    "size": 14194,
+    "sha256": "0d01326d127df8ffbf2f1c464c6828c3694b785c1fa05ca973d5fae474288145"
    },
    {
-    "path": "thumbs/hip-circles.png",
-    "size": 76213,
-    "sha256": "ceedccb663b3b53804eed572903231adbd5c3b2c62690115f2b0257dc67ad50f"
+    "path": "thumbs/hip-circles.webp",
+    "size": 7372,
+    "sha256": "78577025667de7375d3e67678767e8a810e5e824ac83386d30b32eb56e7b5a27"
    },
    {
-    "path": "thumbs/hip-thrust.png",
-    "size": 146446,
-    "sha256": "50cca87187cfbbe8da73ac750be7aeb083a2654726f92f1bc7a4837958c29302"
+    "path": "thumbs/hip-thrust.webp",
+    "size": 15484,
+    "sha256": "0c4364e304107d7c44e91d3e12ea602ec6f576ba4cd385efc6d1a26d59543618"
    },
    {
-    "path": "thumbs/horizontal-leg-press.png",
-    "size": 136635,
-    "sha256": "434fc0de15a5ede00e4edcfbc4b611ba6ac1d1d4eef48cfbf459ddb9f3ad0eac"
+    "path": "thumbs/horizontal-leg-press.webp",
+    "size": 11854,
+    "sha256": "6c313ece4030fadd6c167ec339670e341791b459f4572c02a2eaa9988d24465d"
    },
    {
-    "path": "thumbs/inchworm.png",
-    "size": 135028,
-    "sha256": "aa6336e2c918c0f2df89c15393bc23acba5ff01c42d808f3197fd79444415de5"
+    "path": "thumbs/inchworm.webp",
+    "size": 11314,
+    "sha256": "b17e381a5c4ea1f0301304ef08bf3d8e9209900f34b961e44778852a38b3bb0d"
    },
    {
-    "path": "thumbs/incline-bench-press.png",
-    "size": 146092,
-    "sha256": "628185e684875cdf2a00671ebfaf0e1fdcb7b7e2ca9ed1869779406135e33024"
+    "path": "thumbs/incline-bench-press.webp",
+    "size": 16200,
+    "sha256": "c70fc490eae76aa51a384e48c8ef0c6a743a7c4868ad42f5d91b84cdbb47c3b4"
    },
    {
-    "path": "thumbs/incline-dumbbell-curl.png",
-    "size": 125202,
-    "sha256": "7fce5002e12a6bf80963d83f6b9024c8afc5da4d4c02937e887d1a8440910cca"
+    "path": "thumbs/incline-dumbbell-curl.webp",
+    "size": 10686,
+    "sha256": "d44ded25f0412c93f9bfd22c434ce7a3d6535e17981abd30bdeebcb352d27638"
    },
    {
-    "path": "thumbs/incline-dumbbell-press.png",
-    "size": 145945,
-    "sha256": "a3188b719988788bbb90a046dc818d4ea2baa890731b6eb75437f4eda355acfa"
+    "path": "thumbs/incline-dumbbell-press.webp",
+    "size": 14192,
+    "sha256": "26a26f2baaf3113e7feb226f9a9c25ee05f8f44b1649bf751a939256f7c7500d"
    },
    {
-    "path": "thumbs/incline-dumbbell-row.png",
-    "size": 109283,
-    "sha256": "c57d721f2e1cea87fcd99ff17bf0302d320566b80fca8e7da9e0dd8d29c9400c"
+    "path": "thumbs/incline-dumbbell-row.webp",
+    "size": 9996,
+    "sha256": "6859bd5adb84c16925d90f0ad05a4d13d15c44085665f97ecd9165845724b996"
    },
    {
-    "path": "thumbs/incline-machine-press.png",
-    "size": 111235,
-    "sha256": "9eb48e575531b2d8fd790fd302c09aa5c60c0e3430dfa9a27884ae0d7771088d"
+    "path": "thumbs/incline-machine-press.webp",
+    "size": 12220,
+    "sha256": "adde252554f9b75bd85ad1b66d8dcda2e25781d02bce01fee5c58d8f85d93fd7"
    },
    {
-    "path": "thumbs/jumping-jacks.png",
-    "size": 63119,
-    "sha256": "44967ccf1a402a383befed807729134ea222bc31c2bdb326b7984e5a65cc3a84"
+    "path": "thumbs/jumping-jacks.webp",
+    "size": 7284,
+    "sha256": "d3c0c7bbba77e5322e037f2d2f71d618dc513e47dc180b2c45ee832f1923ed41"
    },
    {
-    "path": "thumbs/kettlebell-swing.png",
-    "size": 77398,
-    "sha256": "d46e2d3cafcffdf5ad2faebb814f1659c7469edda2f7b1c0a963cb129ab8d247"
+    "path": "thumbs/kettlebell-swing.webp",
+    "size": 7786,
+    "sha256": "beb6594278583c0e3ee14f084b83ea4e557ef9d06d31523638b8282786330420"
    },
    {
-    "path": "thumbs/lat-pulldown.png",
-    "size": 133457,
-    "sha256": "0559a0219ce824798bf7579e659b918f27e1cd87a1ca54279a7327d8108a1ea2"
+    "path": "thumbs/lat-pulldown.webp",
+    "size": 15042,
+    "sha256": "9f253059eccb7a87d56005cff6e797e692a2353c7ff5a0748a90190b0a0a3b30"
    },
    {
-    "path": "thumbs/lateral-raise.png",
-    "size": 78333,
-    "sha256": "a90e7b6c7b3dd27dc02584008d65f105b3b7ab37258ef2ebd5c11d5aaf00324b"
+    "path": "thumbs/lateral-raise.webp",
+    "size": 8358,
+    "sha256": "4eea3f16d575880d95454eabd6b0595ca2c4bbd89b342f9b68308482eb0ce24e"
    },
    {
-    "path": "thumbs/leg-extension.png",
-    "size": 118489,
-    "sha256": "8bf94eb3c91b1d92ec55f16ceb6bd7633182296b7901c31d3205c9db99a4e03f"
+    "path": "thumbs/leg-extension.webp",
+    "size": 10394,
+    "sha256": "36ae43c046cf1c5dcf65599e964091c7d39b03237d964487cc1001cbe3708057"
    },
    {
-    "path": "thumbs/leg-press.png",
-    "size": 170885,
-    "sha256": "88e685f9819a11bfebca054c266515487f9446c89d6e2c14009aa72174b4d66f"
+    "path": "thumbs/leg-press.webp",
+    "size": 20802,
+    "sha256": "027411b5a7845ec33d8723c66745ad9fff7d1dc201a36147d8cd9a4415664d78"
    },
    {
-    "path": "thumbs/leg-swings-front.png",
-    "size": 64051,
-    "sha256": "9a38b2a6b4c5429baa0740250f71e947c5b99fa268066db083476ce9957768bd"
+    "path": "thumbs/leg-swings-front.webp",
+    "size": 8634,
+    "sha256": "776267da7e3be9709562360b67e4b6217393a13f97b2fae962c51e3e4f39838f"
    },
    {
-    "path": "thumbs/leg-swings-side.png",
-    "size": 56923,
-    "sha256": "1032b5eca375f67ee82f58d1a6340a9be906216cef78d1ff6bf8c160ec067a70"
+    "path": "thumbs/leg-swings-side.webp",
+    "size": 7996,
+    "sha256": "634d13deb760956b95bb3f43b9be16180d85dd4327c1674dc2c7dfc8059b1e32"
    },
    {
-    "path": "thumbs/low-to-high-cable-fly.png",
-    "size": 125290,
-    "sha256": "c06fd17a632011e73ae260f9f0f769c2d90511da1956ee53a9950b8f9ff23b12"
+    "path": "thumbs/low-to-high-cable-fly.webp",
+    "size": 14890,
+    "sha256": "3e8c002c21c2225a59aafb649a6bb800c787dd09e73d1df93ede63ddc3089e12"
    },
    {
-    "path": "thumbs/lying-leg-curl.png",
-    "size": 105342,
-    "sha256": "d7026452650887fbc8a49db026c06a8285b4717a45868bece0a2b83700094db3"
+    "path": "thumbs/lying-leg-curl.webp",
+    "size": 10296,
+    "sha256": "f31276031e10d593d3baa004f98fc119a96648311866f8456b3245f36eafffa6"
    },
    {
-    "path": "thumbs/machine-bicep-curl.png",
-    "size": 149958,
-    "sha256": "de2717eac3ab7436ec301a4ab1bcba573c9ff3ff9afed2cf22a81e98dd189759"
+    "path": "thumbs/machine-bicep-curl.webp",
+    "size": 16244,
+    "sha256": "d2046326646d335a74b187a12972ee3b93c69ca72b1373267e231d1e15fa8b02"
    },
    {
-    "path": "thumbs/machine-calf-raise.png",
-    "size": 111622,
-    "sha256": "cdf3558428acd593a605c51afb8bba80df85cea5b6ae01ce30d47c709825dd4d"
+    "path": "thumbs/machine-calf-raise.webp",
+    "size": 11458,
+    "sha256": "a7867ca099a3b5631559aad6e7a2d7feb3d4d5f1523ffe89604f1c6b755ac1dd"
    },
    {
-    "path": "thumbs/machine-chest-press.png",
-    "size": 120280,
-    "sha256": "9820949ee19978c1400c733c1cf2d7a8afff00eae67f04a4ec3970885eefff99"
+    "path": "thumbs/machine-chest-press.webp",
+    "size": 11990,
+    "sha256": "0331c50fc36af30e01bb71a7d700679d269c51ac6ef954120b8326ac6c4c0181"
    },
    {
-    "path": "thumbs/machine-crunch.png",
-    "size": 122777,
-    "sha256": "ecc7adc36228992fe899d5af4eb2a7bd98a63d91e80591139aaa402d7c44560e"
+    "path": "thumbs/machine-crunch.webp",
+    "size": 10114,
+    "sha256": "7b7e343d5a85b3b63bdafe523f408ef394bf1e4271e10c74700a440bbb323ebf"
    },
    {
-    "path": "thumbs/machine-lateral-raise.png",
-    "size": 138045,
-    "sha256": "a3913ef0258522af7919b274d13dc24214e960c25ec17aab53e91e792becdd9d"
+    "path": "thumbs/machine-lateral-raise.webp",
+    "size": 14614,
+    "sha256": "9791974aeb41299b2730f16b594b6bb4609696ca0c921e285518b2d6cb01d2d2"
    },
    {
-    "path": "thumbs/machine-row.png",
-    "size": 142926,
-    "sha256": "6fb32208c60b087ba7e8720d51bad7bd72e27d0bb967c9343f8b8a4db1d36058"
+    "path": "thumbs/machine-row.webp",
+    "size": 16610,
+    "sha256": "fe010a19b5683f83281e6f846da48f080383b61ed878cf5b0041574c46fef164"
    },
    {
-    "path": "thumbs/machine-shoulder-press.png",
-    "size": 125734,
-    "sha256": "ed35c65044fa4101134f7f7a770b0715df504eece99d72b5bb56497cbf1a55b9"
+    "path": "thumbs/machine-shoulder-press.webp",
+    "size": 13090,
+    "sha256": "735d1b40200a2a16eb24a4bbcb08fb29b42ba94682ef5341c3715fbfd5984082"
    },
    {
-    "path": "thumbs/medicine-ball-slam.png",
-    "size": 102308,
-    "sha256": "2bae611f1af3b22ae5df81b085c9e4747e2846c775aca17408afcac62845aee4"
+    "path": "thumbs/medicine-ball-slam.webp",
+    "size": 9990,
+    "sha256": "32afae639ca8ea0562bbe5338277141f583df7f6d995ae5f894155f183b6fb6f"
    },
    {
-    "path": "thumbs/mountain-climber.png",
-    "size": 117812,
-    "sha256": "2d7157e5d95cdc9dbc9c01bf7a968e549e0c4ad58f8331c1c6a73e09efe1302a"
+    "path": "thumbs/mountain-climber.webp",
+    "size": 10760,
+    "sha256": "4710825f7132278290d300701332223679d545b267668e19745ae9a7fc79d2d3"
    },
    {
-    "path": "thumbs/overhead-cable-extension.png",
-    "size": 126123,
-    "sha256": "f83194d31d5226e188e544979038242885e80b2bc14540aacf64fb0b463f70d5"
+    "path": "thumbs/overhead-cable-extension.webp",
+    "size": 14260,
+    "sha256": "53b865b918c4f73cfdadd3a27ea7a37dbe3dbb2cf8d97490e72acd66a685279f"
    },
    {
-    "path": "thumbs/overhead-press.png",
-    "size": 88518,
-    "sha256": "df99b62124a6477335787d6b7796810ae13d45d5b3fc7f10c78773f2056f7d15"
+    "path": "thumbs/overhead-press.webp",
+    "size": 10098,
+    "sha256": "d745d7ab2ab2b7611517c0116c3456373c0c55e4943c7ef25b36361bc1e16e19"
    },
    {
-    "path": "thumbs/overhead-triceps-extension.png",
-    "size": 106431,
-    "sha256": "591db24ee66591b440a2837aa731c25afe5e2dacba8642226a1d7777dbaafdf1"
+    "path": "thumbs/overhead-triceps-extension.webp",
+    "size": 9124,
+    "sha256": "74a668a3a34d4add306d7b8a1193c55288504e768d90bcd1a8250f9a14db6b14"
    },
    {
-    "path": "thumbs/overhead-triceps-stretch.png",
-    "size": 66966,
-    "sha256": "ffc24c83533a696fe1d6a41f1fb7edc2a3aadb1350f823963228db734393448c"
+    "path": "thumbs/overhead-triceps-stretch.webp",
+    "size": 6318,
+    "sha256": "e32d200d583f9548f1aa0f395c79b5fc8a7ac5d9a285eb547e2487f264f7c39a"
    },
    {
-    "path": "thumbs/pallof-press.png",
-    "size": 129129,
-    "sha256": "eaf347a323bb95cacc198e5b837a43f984f0bc7a4134399cbeaadf473ce199f3"
+    "path": "thumbs/pallof-press.webp",
+    "size": 14332,
+    "sha256": "358b2a72b510889e9ed0b77835a02a2dedff44c755770881900e913523166796"
    },
    {
-    "path": "thumbs/pec-deck.png",
-    "size": 135909,
-    "sha256": "a2f7ebc569e3efb05f49038204b3aaf1bea13b23a3596f542026f26254d9e5f9"
+    "path": "thumbs/pec-deck.webp",
+    "size": 13576,
+    "sha256": "f2d3444cdc1d5bcacc88abb1217f585012a47b59c0901f7e2f4d5b4fdfb0ba34"
    },
    {
-    "path": "thumbs/plank.png",
-    "size": 90112,
-    "sha256": "348ab9ad35b8c87eb1d65a9774fa302eec5b9d5b3bfe460195581a839d20d6bb"
+    "path": "thumbs/plank.webp",
+    "size": 7366,
+    "sha256": "da65b8618a718b323495bc9d9d273096164aab58155accac5ca1172a89efe42d"
    },
    {
-    "path": "thumbs/preacher-curl.png",
-    "size": 111468,
-    "sha256": "b7d324002d1dad81030112535b866bfddfe7149581bb176a6cd7d10237325fda"
+    "path": "thumbs/preacher-curl.webp",
+    "size": 10516,
+    "sha256": "2770d9574d04bfffe8a5c83191554c094bff2bce4e8a390371145f5efe5b05f0"
    },
    {
-    "path": "thumbs/pull-up.png",
-    "size": 94523,
-    "sha256": "9030d244813053f1d050ec8b2afb9d26402b19d16e75977648b749b340f6d1c3"
+    "path": "thumbs/pull-up.webp",
+    "size": 12224,
+    "sha256": "cc535ef655385262532d36d6dad3a3c8a79c281f6bd17a6cc7815c68376c7e92"
    },
    {
-    "path": "thumbs/push-up.png",
-    "size": 103077,
-    "sha256": "884dc2f68c27d2b7ae526c930496eaa3eb892116caa596490ed3f0218d9b3431"
+    "path": "thumbs/push-up.webp",
+    "size": 9414,
+    "sha256": "d83a7df773986bcf0c8229b1ba9aaee185a3d1e61fb202bbaee7230ace6c6d25"
    },
    {
-    "path": "thumbs/rear-delt-fly.png",
-    "size": 104576,
-    "sha256": "1fc5ab7e4af8f93c8be313b615cdb091468acab5fe82e8620dd3cb921df3dbf0"
+    "path": "thumbs/rear-delt-fly.webp",
+    "size": 9840,
+    "sha256": "c9ae4162484fcb8edaf3d32425107f2ec1df61cd8f7fdab9ac8a69aa097e68c6"
    },
    {
-    "path": "thumbs/recumbent-bike.png",
-    "size": 114628,
-    "sha256": "837b23a44ccd40d4ccf96a6452320a4b15bab993e98ae1e74c3fad8a0d4b4866"
+    "path": "thumbs/recumbent-bike.webp",
+    "size": 10732,
+    "sha256": "04dfa4aef38b6581f7346f4567638ecec879874e9afbec5ad7bd423533b8ad50"
    },
    {
-    "path": "thumbs/reverse-pec-deck.png",
-    "size": 137812,
-    "sha256": "3756f2d8c69e3b561f02fabfa6d106425554eb8c472ba293e7ffd5a4aa7f57f5"
+    "path": "thumbs/reverse-pec-deck.webp",
+    "size": 14088,
+    "sha256": "ce9a10ca1af6b9d4eef9318f306366f760e9c258a0195a8107fb5c4f4bfd5b60"
    },
    {
-    "path": "thumbs/romanian-deadlift.png",
-    "size": 163627,
-    "sha256": "219d2e114f16d61e8a93f313975fa1a0ba8fa8dc86cd259275312d6bb1ef9874"
+    "path": "thumbs/romanian-deadlift.webp",
+    "size": 15352,
+    "sha256": "4a266f39ca6720a180f8bf47bc797dfc19f1696b13c490eb2008ea962da8cb60"
    },
    {
-    "path": "thumbs/rope-pushdown.png",
-    "size": 120808,
-    "sha256": "98e74f333610a2068e2875da9106687594791ec711c6f8f318a787683b2879b9"
+    "path": "thumbs/rope-pushdown.webp",
+    "size": 14336,
+    "sha256": "05fba1d08a9953cc60e0bbfe596db9c504e522898f638f359b2010489a80b23c"
    },
    {
-    "path": "thumbs/rotary-torso.png",
-    "size": 118671,
-    "sha256": "982a1eb3d641d64f86d54c7c598d2231014e4ad052989a1dd0b0feffe1c7b1a4"
+    "path": "thumbs/rotary-torso.webp",
+    "size": 9804,
+    "sha256": "0184a0ffc5bc6a2cfc62ddaba985aedba84cb7179d77f7fd5ca24f3384b2e2e1"
    },
    {
-    "path": "thumbs/rowing-machine.png",
-    "size": 118571,
-    "sha256": "897003c64a29a1f702a3c0c88c49f06500c61f5b0196793117fbe19044256331"
+    "path": "thumbs/rowing-machine.webp",
+    "size": 12652,
+    "sha256": "f3497c8ad68c0ef6856a75bc5f956fdfda73e0f7261af482bd084659f54cdc28"
    },
    {
-    "path": "thumbs/scapular-push-up.png",
-    "size": 103588,
-    "sha256": "135f7a9b24b371fec67363fc7181816ba4bfa2c098486e744709534740de2854"
+    "path": "thumbs/scapular-push-up.webp",
+    "size": 9386,
+    "sha256": "949228e20dd148df4adb57679ee525fe7d08db43e7bcd1708cba017aaa302678"
    },
    {
-    "path": "thumbs/seated-cable-row.png",
-    "size": 126166,
-    "sha256": "9cae8f543b36d603308bc17e7ef927a8407378fcb12531b73c52c2a2da24810b"
+    "path": "thumbs/seated-cable-row.webp",
+    "size": 13772,
+    "sha256": "086d4e60c59bfb3c9df26509b04b52c2ed6d588924a1c891d932e666637fbb36"
    },
    {
-    "path": "thumbs/seated-calf-raise.png",
-    "size": 101814,
-    "sha256": "0afdc9d8eeeded377f4d5a170a3e7d649a80fa2d8325412fd98d4b89f5c81a30"
+    "path": "thumbs/seated-calf-raise.webp",
+    "size": 10344,
+    "sha256": "64e18d654578be19022c585d92b88f463bb61c6d21fd3237c19c3fb7a8f9ee40"
    },
    {
-    "path": "thumbs/seated-leg-curl.png",
-    "size": 122147,
-    "sha256": "f994caab01c0bdfb95f3ef6423f3ec736a9276086e5ff24b6fe7300bace60602"
+    "path": "thumbs/seated-leg-curl.webp",
+    "size": 10800,
+    "sha256": "76ae541ac09289f9d09382cd545a04ba3c87ee24adce95a050de3a077a496500"
    },
    {
-    "path": "thumbs/side-plank.png",
-    "size": 95997,
-    "sha256": "380f0e62fc915212db40282f30997c5117f709cfcdee4e4713d964f0ba6b87df"
+    "path": "thumbs/side-plank.webp",
+    "size": 9024,
+    "sha256": "90fe12db906c52536cc27843aa69dab6efea996d3db53296db2caf5cedf15667"
    },
    {
-    "path": "thumbs/skull-crusher.png",
-    "size": 111008,
-    "sha256": "c1abe6a57d9214711ebcd8cfe93083249006fbaec901db090b91a3cebdaa7b4f"
+    "path": "thumbs/skull-crusher.webp",
+    "size": 10054,
+    "sha256": "0793fde273c874d15a5c817151118f2edbafc2ab0a74611608162b930361c12c"
    },
    {
-    "path": "thumbs/smith-bench-press.png",
-    "size": 158531,
-    "sha256": "cbfb8b24c411f25dcce843a8fa7bc6acd4646af6278255dc951a6c9eb5eb0c91"
+    "path": "thumbs/smith-bench-press.webp",
+    "size": 19864,
+    "sha256": "bff0d271c458cd80763d2ae0d7dfc7026d2584cb211d8a79deee191600763fb6"
    },
    {
-    "path": "thumbs/smith-incline-press.png",
-    "size": 171487,
-    "sha256": "0e4d7bed0e2f08fc5632130a417892269a518657cd65b0abd2192a624d5be384"
+    "path": "thumbs/smith-incline-press.webp",
+    "size": 20650,
+    "sha256": "5ec6bc78466af3e40ff4489fbb98dd999606755919c4628f3eb28ebcd133dccf"
    },
    {
-    "path": "thumbs/smith-squat.png",
-    "size": 152418,
-    "sha256": "e9cd86843fa0c894b3f364942e2ce74a1dceea20c02e054e48a62354b834995b"
+    "path": "thumbs/smith-squat.webp",
+    "size": 20354,
+    "sha256": "9698256989d9aa14eb036fe1067db30d14bed3992395977ded4e8860672f218c"
    },
    {
-    "path": "thumbs/spinning-bike.png",
-    "size": 104888,
-    "sha256": "f01cf0e3c7bf7bc5938f43d146d1d011132ec40af9db22b3d2d67afeb523a8ce"
+    "path": "thumbs/spinning-bike.webp",
+    "size": 10910,
+    "sha256": "deb1cf7f3e7a6ca48db0ee7ed77371202eed2907d67adef95c8e58cd249ae4f4"
    },
    {
-    "path": "thumbs/standing-calf-raise.png",
-    "size": 115897,
-    "sha256": "1178c5ab53c8707ebf13daef8ef68d3479dadc2a249d816751f042c71aeb775a"
+    "path": "thumbs/standing-calf-raise.webp",
+    "size": 12760,
+    "sha256": "7acb58e938ecff9aa3746289dab1853f91b1c5996780cae96a2fffd12b6015e7"
    },
    {
-    "path": "thumbs/standing-quad-stretch.png",
-    "size": 64406,
-    "sha256": "e61d0fc03e13b9ed49c92fd44647fbe9d6f3c51e3b10033c47be1d7ba3761b1c"
+    "path": "thumbs/standing-quad-stretch.webp",
+    "size": 6492,
+    "sha256": "1e611be430def5d25945c1ac22e1a37cb622b6d6fcec3c2e10fee8282b9e7ed4"
    },
    {
-    "path": "thumbs/stationary-bike.png",
-    "size": 91356,
-    "sha256": "c08e4bbd3f80f90870343eabe04967505c5c1d42e2e04646506583c4f51fb97f"
+    "path": "thumbs/stationary-bike.webp",
+    "size": 10302,
+    "sha256": "54336a358426e4611ad7f3e64d07fb4d93ad4fdb282cdfb1c356e9d2f9670f71"
    },
    {
-    "path": "thumbs/step-up.png",
-    "size": 79007,
-    "sha256": "7027443715beb3fb61643ebc9f9e3323166bca2ecc6a715f8adc7364a128f1e4"
+    "path": "thumbs/step-up.webp",
+    "size": 8588,
+    "sha256": "f4a116f93589b104911b48c03875065e55f5f06f877c57eb22f19e00877b703e"
    },
    {
-    "path": "thumbs/straight-arm-pulldown.png",
-    "size": 121725,
-    "sha256": "091c9a5233b872b31fb0782bdcb9c02709f177d8ace5b9fd8e3e2da47119c8ff"
+    "path": "thumbs/straight-arm-pulldown.webp",
+    "size": 14610,
+    "sha256": "faaed550b3bab31d7b0006e2a7c4bf82d31fa082eb0b3d28c816c959f7f05241"
    },
    {
-    "path": "thumbs/supine-hamstring-stretch.png",
-    "size": 98271,
-    "sha256": "3bd7ed2155e660345b68818e3850d1324725790b5cf9e75f3c92ff76c54c16e4"
+    "path": "thumbs/supine-hamstring-stretch.webp",
+    "size": 10750,
+    "sha256": "c277b92a678619cad7ad65e5f499d90778eea064eb5d9530d9a2bc61ca6cc361"
    },
    {
-    "path": "thumbs/thoracic-foam-roller-extension.png",
-    "size": 103448,
-    "sha256": "f33be7e3be22afa116aa2248e4f8ef12ca151d43916f192bc63f7d0d680307d3"
+    "path": "thumbs/thoracic-foam-roller-extension.webp",
+    "size": 8006,
+    "sha256": "1de0a0d64604cd78c5dc5b955fb2c372e3ccf26720547f75e0521f558b31ec30"
    },
    {
-    "path": "thumbs/thoracic-open-book.png",
-    "size": 82155,
-    "sha256": "3017b8fc34b6764f01564a087168785b5ae804d8842b4a4028f0b0dde9011188"
+    "path": "thumbs/thoracic-open-book.webp",
+    "size": 6576,
+    "sha256": "011d17ca62546dca831fb4660ef750cea37f06c0e161948a942ff6044348f733"
    },
    {
-    "path": "thumbs/triceps-machine.png",
-    "size": 122048,
-    "sha256": "4ed00825255b66086afb0e84e67806c8a6e5dd458c59a3fe123633c4b24a7cb2"
+    "path": "thumbs/triceps-machine.webp",
+    "size": 11000,
+    "sha256": "8efa7fa227da95631206c88df89db64c93af14df297605f3d1ea587d96af9e5b"
    },
    {
-    "path": "thumbs/triceps-pushdown.png",
-    "size": 102420,
-    "sha256": "3fd0d43d10345e80a2769b12948260cf31516e8991fecb416dccdc2c22ae0e11"
+    "path": "thumbs/triceps-pushdown.webp",
+    "size": 11076,
+    "sha256": "b92fb44bc5d21eddd2f524bc6f2e83e7b926cb857d5b5a7c11e5c534514ae981"
    },
    {
-    "path": "thumbs/trx-row.png",
-    "size": 102168,
-    "sha256": "99fe87217e90afa2133dee7bb3544aa21ea82c13122b8009947d1eb5ceb522fb"
+    "path": "thumbs/trx-row.webp",
+    "size": 14876,
+    "sha256": "949a0692beda596a02d51df8402469bcdcad28f27b2d58959892457d9e6352c2"
    },
    {
-    "path": "thumbs/upper-trap-stretch.png",
-    "size": 76890,
-    "sha256": "80f777e5bd02911eee3711c6669125797b028a90d417cf6486a5526f90e009cf"
+    "path": "thumbs/upper-trap-stretch.webp",
+    "size": 7028,
+    "sha256": "b279e38a4ca947f71c75939d2799f6976dc89ab0b49133294240b7b3084f46b7"
    },
    {
-    "path": "thumbs/wall-calf-stretch.png",
-    "size": 52962,
-    "sha256": "260eacc6253c7dc14c8245128961888b56a98f0db3d4ee5a88d6a687dc08610e"
+    "path": "thumbs/wall-calf-stretch.webp",
+    "size": 7338,
+    "sha256": "307e24e74ede424a3a2cbdc0f4dadf9a68442f126c4185ec3fff7b6ed0f1bdc9"
    },
    {
-    "path": "thumbs/wall-slides.png",
-    "size": 63193,
-    "sha256": "678a725b038edae4dea25a5778c73c0300171dfcc5a03ad9dec39e8fb32f567c"
+    "path": "thumbs/wall-slides.webp",
+    "size": 5490,
+    "sha256": "bd503d44df13b357294210cf5439d6faf39b8155634fb0d9689c95fc5edc18bf"
    },
    {
-    "path": "thumbs/worlds-greatest-stretch.png",
-    "size": 81508,
-    "sha256": "ec78f6d9075d6d8d1582caa91373c8bc4f794d16e6c454a3309476800a349e85"
+    "path": "thumbs/worlds-greatest-stretch.webp",
+    "size": 8394,
+    "sha256": "9c16da882e24288767d4ca241fee035e9c0472505ca4e3c06f0b6fe9d721b35e"
    },
    {
     "path": "version.json",
     "size": 113,
-    "sha256": "4b57f46a061b864518388df91ed8c6dcf4d46cb8817240c57d63076de9d149f6"
+    "sha256": "7139746678eba7b7a2eb4e4aee02cc6219954ad7a6842015c1f49f7e7d32cc47"
    }
   ],
   "minAndroidVersionCode": 4,
